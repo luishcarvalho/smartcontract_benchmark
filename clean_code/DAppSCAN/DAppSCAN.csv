@@ -1,0 +1,1647 @@
+name,line,category
+GoodGhosting.sol,L3,SWC-102-Outdated Compiler Version
+Endpoint.sol,L152,SWC-101-Integer Overflow and Underflow
+Relayer.sol,L4,SWC-102-Outdated Compiler Version
+Relayer.sol,L4,SWC-103-Floating Pragma
+Relayer.sol,L21-23,SWC-101-Integer Overflow and Underflow
+Zunami.sol,L45-47,SWC-135-Code With No Effects
+Zunami.sol,L74,SWC-100-Function Default Visibility
+BeamToken.sol,L17,SWC-129-Typographical Error
+BeamToken.sol,L72,SWC-129-Typographical Error
+AllocatedCrowdsaleMixin.sol,L38,SWC-100-Function Default Visibility
+Crowdsale.sol,L149,SWC-100-Function Default Visibility
+Crowdsale.sol,L161,SWC-100-Function Default Visibility
+CrowdsaleBase.sol,L1 - L467,SWC-103-Floating Pragma
+CrowdsaleBase.sol,L414 - L417,SWC-129-Typographical Error
+DefaultFinalizeAgent.sol,L8,SWC-102-Outdated Compiler Version
+OMICrowdsale.sol,L1,SWC-102-Outdated Compiler Version
+Gifto_TGE.sol,L72 L75,SWC-131-Presence of unused variables
+Gifto_TGE.sol,L116 - L121,SWC-131-Presence of unused variables
+Fee.sol,L2,SWC-102-Outdated Compiler Version
+Migrations.sol,L2-24,SWC-100-Function Default Visibility
+SynchroCoin.sol,L118,SWC-100-Function Default Visibility
+ZipToken.sol,L12,SWC-131-Presence of unused variables
+AloeBlend.sol,L186,SWC-135-Code With No Effects
+DeltaNeutralVault.sol,// SWC-114-Transaction Order Dependence,SWC-114-Transaction Order Dependence
+DeltaNeutralVault.sol,// SWC-114-Transaction Order Dependence,SWC-114-Transaction Order Dependence
+PriceHelper.sol,// SWC-116-Block values as a proxy for time,SWC-116-Block values as a proxy for time
+ApeVault.sol,L64,SWC-135-Code With No Effects
+ApeVault.sol,L71,SWC-135-Code With No Effects
+ApeVault.sol,L133-135,SWC-105-Unprotected Ether Withdrawal
+ImpossibleWrappedToken.sol,L53-61,SWC-107-Reentrancy
+ImpossibleWrappedToken.sol,L65-73,SWC-107-Reentrancy
+ImpossibleWrappedToken.sol,L65-73,SWC-114-Transaction Order Dependence
+ve.sol,L491-493,SWC-112-Delegatecall to Untrusted Callee
+ve.sol,L675-697,SWC-104-Unchecked Call Return Value
+ve.sol,L1097-1104,SWC-107-Reentrancy
+VEReward.sol,L119-134,SWC-113-DoS with Failed Call
+VEReward.sol,L269-275,SWC-128-DoS With Block Gas Limit
+Liquidator.sol,L35,SWC-105-Unprotected Ether Withdrawal
+Vault.sol,L72-89,SWC-119-Shadowing State Variables
+VaultManager.sol,L156-166,SWC-101-Integer Overflow and Underflow
+AsyncArtwork_v2.sol,L156,SWC-108-State Variable Default Visibility
+AsyncArtwork_v2.sol,L601,SWC-131-Presence of unused variables
+Proxy.sol,L3,SWC-103-Floating Pragma
+PositionManagerFactory.sol,L87-90,SWC-135-Code With No Effects
+ZapIn.sol,L53-54,SWC-101-Integer Overflow and Underflow
+SwapHelper.sol,L11-74,SWC-101-Integer Overflow and Underflow
+IdleLiquidityModule.sol,L131,SWC-101-Integer Overflow and Underflow
+RealityCards.sol,L27,SWC-135-Code With No Effects
+RealityCards.sol,L198-204,SWC-135-Code With No Effects
+RealityCards.sol,L212-214,SWC-135-Code With No Effects
+BSCSCAN-0xC512261b8AE70260447A74aC7d94dAee150B90C0.sol,L467,SWC-123-Requirement Violation
+BSCSCAN-0xC512261b8AE70260447A74aC7d94dAee150B90C0.sol,L702 - L703,SWC-135-Code With No Effects
+BSCSCAN-0xC512261b8AE70260447A74aC7d94dAee150B90C0.sol,L710,SWC-131-Presence of unused variables
+BSCSCAN-0xC512261b8AE70260447A74aC7d94dAee150B90C0.sol,L794 - L795,SWC-135-Code With No Effects
+BSCSCAN-0xC512261b8AE70260447A74aC7d94dAee150B90C0.sol,L828 - L831,SWC-135-Code With No Effects
+BSCSCAN-0xC512261b8AE70260447A74aC7d94dAee150B90C0.sol,L837 - L844,SWC-135-Code With No Effects
+BSCSCAN-0xC512261b8AE70260447A74aC7d94dAee150B90C0.sol,L865 - L874,SWC-135-Code With No Effects
+BSCSCAN-0xC512261b8AE70260447A74aC7d94dAee150B90C0.sol,L941 - L951,SWC-135-Code With No Effects
+BSCSCAN-0xC512261b8AE70260447A74aC7d94dAee150B90C0.sol,L955 - L961,SWC-135-Code With No Effects
+BSCSCAN-0xC512261b8AE70260447A74aC7d94dAee150B90C0.sol,L1106 - L1124,SWC-135-Code With No Effects
+BSCSCAN-0xC512261b8AE70260447A74aC7d94dAee150B90C0.sol,L1137 - L1145,SWC-135-Code With No Effects
+BSCSCAN-0xC512261b8AE70260447A74aC7d94dAee150B90C0.sol,L1148 - L1156,SWC-135-Code With No Effects
+code.sol,L702 - L703,SWC-135-Code With No Effects
+code.sol,L710,SWC-135-Code With No Effects
+Etherscan-0x4e15361fd6b4bb609fa63c81a2be19d873717870.sol,L166 - L172,SWC-105-Unprotected Ether Withdrawal
+MyToken.sol,L73 - L75,SWC-135-Code With No Effects
+JarvisPlusToken_flat.sol,L97,SWC-135-Code With No Effects
+JarvisPlusToken_flat.sol,L167 - L168,SWC-135-Code With No Effects
+BSCSCAN-2ae9952c1038dA3DafebA026B96053F24CBc03b3.sol,L454- L457,SWC-105-Unprotected Ether Withdrawal
+code.sol,L76,SWC-104-Unchecked Call Return Value
+contract.sol,L23,SWC-111-Use of Deprecated Solidity Functions
+contract.sol,L121,SWC-111-Use of Deprecated Solidity Functions
+contract.sol,L157,SWC-135-Code With No Effects
+contract.sol,L161,SWC-135-Code With No Effects
+contract.sol,L224,SWC-107-Reentrancy
+MonstaPresale.sol,L94-197,SWC-105-Unprotected Ether Withdrawal
+MonstaPresale.sol,L94 - L96,SWC-105-Unprotected Ether Withdrawal
+BinanceSmartChain_SHIELD.sol,L332 - L334,SWC-135-Code With No Effects
+BinanceSmartChain_SHIELD.sol,L339 - L341,SWC-135-Code With No Effects
+BinanceSmartChain_SHIELD.sol,L346 - L348,SWC-135-Code With No Effects
+wildfire.sol,L809 - L817,SWC-113-DoS with Failed Call
+wildfire.sol,L898 - L902,SWC-113-DoS with Failed Call
+WorthTokenSale.sol,L279 - L282,SWC-105-Unprotected Ether Withdrawal
+WorthTokenTimeLock.sol,L60,SWC-135-Code With No Effects
+GenericAave.sol,L104-134,SWC-114-Transaction Order Dependence
+VaultManager.sol,L692,SWC-104-Unchecked Call Return Value
+Comptroller.sol,L465-501,SWC-107-Reentrancy
+CToken.sol,L930-947,SWC-107-Reentrancy
+GUniLPOracle.sol,L137,SWC-135-Code With No Effects
+MultiplyProxyActions.sol,L119,SWC-101-Integer Overflow and Underflow
+MultiplyProxyActions.sol,L172,SWC-104-Unchecked Call Return Value
+TokensRelayer.sol,L99-117,SWC-107-Reentrancy
+PrimitiveEngine.sol,L57,SWC-135-Code With No Effects
+ReplicationMath.sol,L70-86,SWC-135-Code With No Effects
+ReferralFeeReceiver.sol,L11,SWC-107-Reentrancy
+SimpeToken.sol,L3,SWC-103-Floating Pragma
+Curate.sol,L3,SWC-103-Floating Pragma
+Curate.sol,L3,SWC-103-Floating Pragma
+yield.sol,L2,SWC-103-Floating Pragma
+yield.sol,L532 - L541,SWC-108-State Variable Default Visibility
+yield.sol,L640 - L644,SWC-128-DoS With Block Gas Limit
+Escrow.sol,L40,SWC-110-Assert Violation
+LockupToken.sol,L24,SWC-116-Block values as a proxy for time
+FinToken.sol,L6,SWC-103-Floating Pragma
+FinToken.sol,L225,SWC-101-Integer Overflow and Underflow
+FountainBase.sol,L290-291,SWC-107-Reentrancy
+FountainBase.sol,L295-L308,SWC-107-Reentrancy
+HarvestPermit.sol,L13,SWC-119-Shadowing State Variables
+JoinPermit.sol,L13,SWC-119-Shadowing State Variables
+AccessControlCrossChainUpgradeable.sol,L4,SWC-103-Floating Pragma
+CapperRole.sol,L2,SWC-103-Floating Pragma
+AccessControl.sol,L4,SWC-103-Floating Pragma
+AccessControl.sol,L4,SWC-102-Outdated Compiler Version
+spi_staking.sol,L3,SWC-103-Floating Pragma
+spi_staking.sol,L36 ,SWC-135-Code With No Effects
+AccessControl.sol,L3,SWC-103-Floating Pragma
+FinToken.sol,L7,SWC-103-Floating Pragma
+FinToken.sol,L226,SWC-101-Integer Overflow and Underflow
+Staking.sol,// SWC-103-Floating Pragma,SWC-103-Floating Pragma
+CapperRole.sol,L2,SWC-103-Floating Pragma
+AccessControl.sol,L4,SWC-102-Outdated Compiler Version
+AccessControl.sol,L4,SWC-103-Floating Pragma
+AddressResolver.sol,L2,SWC-103-Floating Pragma
+AccessControl.sol,L3,SWC-103-Floating Pragma
+AccessControl.sol,L3,SWC-103-Floating Pragma
+Touch.sol,L128,SWC-101-Integer Overflow and Underflow
+Roles.sol,L2,SWC-103-Floating Pragma
+YieldFarm.sol,L3,SWC-103-Floating Pragma
+YieldFarm.sol,L76,SWC-128-DoS With Block Gas Limit
+Staking.sol,L3,SWC-103-Floating Pragma
+CommunityVault.sol,L2,SWC-103-Floating Pragma
+CommunityVault.sol,L19,SWC-107-Reentrancy
+YieldFarm.sol,L3,SWC-103-Floating Pragma
+YieldFarm.sol,L73 - L77,SWC-128-DoS With Block Gas Limit
+YieldFarm.sol,L3,SWC-103-Floating Pragma
+YieldFarm.sol,L73 - L77,SWC-128-DoS With Block Gas Limit
+YieldFarmLP.sol,L3,SWC-103-Floating Pragma
+YieldFarmLP.sol,L62 - L66,SWC-128-DoS With Block Gas Limit
+DEAsingleStaking.sol,L70,SWC-100-Function Default Visibility
+Vault.sol,L21,SWC-100-Function Default Visibility
+Vault.sol,L25,SWC-100-Function Default Visibility
+Vault.sol,L79,SWC-100-Function Default Visibility
+Vault.sol,L84,SWC-100-Function Default Visibility
+Vault.sol,L96,SWC-100-Function Default Visibility
+Vault.sol,L112,SWC-100-Function Default Visibility
+Vault.sol,L122,SWC-100-Function Default Visibility
+Vault.sol,L140,SWC-100-Function Default Visibility
+Vault.sol,L149,SWC-100-Function Default Visibility
+etherscan-0xdad57280919b81268e13591462fa80ef7d92b10c.sol,L394,SWC-119-Shadowing State Variables
+etherscan-0xdad57280919b81268e13591462fa80ef7d92b10c.sol,L487,SWC-119-Shadowing State Variables
+etherscan-0xdad57280919b81268e13591462fa80ef7d92b10c.sol,L587,SWC-119-Shadowing State Variables
+wHakka.sol,L509,SWC-116-Block values as a proxy for time
+wHakka.sol,L556 - L573,SWC-107-Reentrancy
+wHakka.sol,L576 - L592,SWC-107-Reentrancy
+wHakka.sol,L580,SWC-116-Block values as a proxy for time
+MasterChef.sol,L105 - L127,SWC-107-Reentrancy
+MasterChef.sol,L131 - L143,SWC-107-Reentrancy
+MasterChef.sol,L227 - L266,SWC-107-Reentrancy
+MasterChef.sol,L247 - L251,SWC-107-Reentrancy
+MasterChef.sol,L272 - L306,SWC-107-Reentrancy
+MasterChef.sol,L310 - L329,SWC-107-Reentrancy
+MasterChef.sol,L333 - L340,SWC-104-Unchecked Call Return Value
+MasterChef.sol,L378 - L381,SWC-107-Reentrancy
+MasterChef.sol,L384 - L389,SWC-104-Unchecked Call Return Value
+erc20.sol,L280,SWC-119-Shadowing State Variables
+erc20.sol,L282,SWC-119-Shadowing State Variables
+erc20.sol,L280,SWC-119-Shadowing State Variables
+erc20.sol,L282,SWC-119-Shadowing State Variables
+strategy-base.sol,L237 - L268,SWC-104-Unchecked Call Return Value
+strategy-base.sol,L271 - L288,SWC-104-Unchecked Call Return Value
+strategy-base.sol,L291 - L322,SWC-104-Unchecked Call Return Value
+strategy-base.sol,L325 - L342,SWC-104-Unchecked Call Return Value
+strategy-basis-farm-base.sol,L78 - L152,SWC-104-Unchecked Call Return Value
+SpaceMonkey.sol,L53 - L64,SWC-107-Reentrancy
+SpaceMonkey.sol,L67,SWC-119-Shadowing State Variables
+SpaceMonkey.sol,L194,SWC-119-Shadowing State Variables
+Etherscan-0x9F599410D207f3D2828a8712e5e543AC2E040382.sol,L52 - L56,SWC-119-Shadowing State Variables
+Etherscan-0x9F599410D207f3D2828a8712e5e543AC2E040382.sol,L373 - L394,SWC-107-Reentrancy
+AllocationStaking.sol,L129-134,SWC-101-Integer Overflow and Underflow
+AllocationStaking.sol,L207-214,SWC-101-Integer Overflow and Underflow
+AllocationStaking.sol,L472-475,SWC-101-Integer Overflow and Underflow
+Admin.sol,L43-68,SWC-113-DoS with Failed Call
+AvalaunchSale.sol,L294,SWC-113-DoS with Failed Call
+AvalaunchSale.sol,L346,SWC-113-DoS with Failed Call
+AvalaunchCollateral.sol,L4,SWC-102-Outdated Compiler Version
+AvalaunchCollateral.sol,L4,SWC-103-Floating Pragma
+bbi.sol,L223,SWC-101-Integer Overflow and Underflow
+bbi.sol,L243 - L245,SWC-105-Unprotected Ether Withdrawal
+bitpara.sol,L3,SWC-102-Outdated Compiler Version
+bitpara.sol,L3,SWC-103-Floating Pragma
+CasperToken.sol,L2,SWC-102-Outdated Compiler Version
+CasperToken.sol,L460-492,SWC-101-Integer Overflow and Underflow
+code.sol,L6,SWC-102-Outdated Compiler Version
+TeamsStorageController.sol,L48,SWC-104-Unchecked Call Return Value
+DTT.sol,L375-376,SWC-101-Integer Overflow and Underflow
+DTT.sol,L399,SWC-101-Integer Overflow and Underflow
+Migrations.sol,L2,SWC-102-Outdated Compiler Version
+ProPoolLib.sol,L2,SWC-102-Outdated Compiler Version
+ProPoolLib.sol,L120,SWC-114-Transaction Order Dependence
+Ark.sol,L3,SWC-102-Outdated Compiler Version
+Ark.sol,L55,SWC-113-DoS with Failed Call
+Vesting.sol,L139-199,SWC-113-DoS with Failed Call
+Vesting.sol,L172-180,SWC-101-Integer Overflow and Underflow
+BaseUpgradableMarketplace.sol,L151,SWC-113-DoS with Failed Call
+BaseUpgradableMarketplace.sol,L155,SWC-113-DoS with Failed Call
+MintingFactoryV2.sol,L3,SWC-102-Outdated Compiler Version
+MintingFactoryV2.sol,L93 - L112,SWC-107-Reentrancy
+RevenueToken.sol,L266,SWC-101-Integer Overflow and Underflow
+TokenHolderRevenueFund.sol,L291,SWC-128-DoS With Block Gas Limit
+USDTieredSTO.sol,L360,SWC-135-Code With No Effects
+NanoLoanEngine.sol,L46,SWC-128-DoS With Block Gas Limit
+MeshToken.sol,L2,SWC-102-Outdated Compiler Version
+SafeMathLib.sol,L8 - L40,SWC-135-Code With No Effects
+ISendToken.sol,L2 - L45,SWC-135-Code With No Effects
+REAL.sol,L2,SWC-135-Code With No Effects
+BondService.sol,L160,SWC-115-Authorization through tx.origin
+BondService.sol,L172,SWC-115-Authorization through tx.origin
+Gate.sol,L175-190,SWC-113-DoS with Failed Call
+ExchangeService.sol,L129,SWC-115-Authorization through tx.origin
+LeverageService.sol,L131,SWC-115-Authorization through tx.origin
+woonklyPOS.sol,L743 - L769,SWC-107-Reentrancy
+woonklyPOS.sol,L874 - L886,SWC-113-DoS with Failed Call
+Ownable.sol,// SWC-135-Code With No Effects,SWC-135-Code With No Effects
+TokenTranchePricing.sol,L45-69,SWC-101-Integer Overflow and Underflow
+code.sol,L5,SWC-102-Outdated Compiler Version
+incognito_proxy.sol,L2,SWC-102-Outdated Compiler Version
+transparentUpgraded.sol,L299 - L303,SWC-100-Function Default Visibility
+vault.sol,L409,SWC-101-Integer Overflow and Underflow
+vault.sol,L513 - L548,SWC-114-Transaction Order Dependence
+vault.sol,L513 - L548,SWC-105-Unprotected Ether Withdrawal
+BorrowerOperations.sol,L321 - L351,SWC-105-Unprotected Ether Withdrawal
+TempusController.sol,L352-386,SWC-107-Reentrancy
+TempusController.sol,L395-436,SWC-107-Reentrancy
+MetaTransactionsFeature.sol,L100-107,SWC-107-Reentrancy
+UniswapFeature.sol,L203-206,SWC-107-Reentrancy
+ERC20Proxy.sol,L21,SWC-135-Code With No Effects
+AssetProxyOwner.sol,L19,SWC-102-Outdated Compiler Version
+MixinAssetProxyDispatcher.sol,L32,SWC-135-Code With No Effects
+MixinSignatureValidator.sol,L52-L59,SWC-122-Lack of Proper Signature Verification
+LibAssetData.sol,L40,SWC-119-Shadowing State Variables
+Staking.sol,L37-40,SWC-135-Code With No Effects
+IStructs.sol,L62,SWC-135-Code With No Effects
+IStructs.sol,L115,SWC-135-Code With No Effects
+LibFixedMath.sol,L361-378,SWC-101-Integer Overflow and Underflow
+MixinStakingPool.sol,L1-350,SWC-112-Delegatecall to Untrusted Callee
+MixinScheduler.sol,L71,SWC-116-Block values as a proxy for time
+Mooniswap.sol,L331-341,SWC-105-Unprotected Ether Withdrawal
+ReferralFeeReceiver.sol,L38-50,SWC-105-Unprotected Ether Withdrawal
+GovernanceMothership.sol,L50,SWC-124-Write to Arbitrary Storage Location
+LendingPool.sol,L92-119,SWC-107-Reentrancy
+LendingPool.sol,L579,SWC-104-Unchecked Call Return Value
+LendingPoolCollateralManager.sol,L490-517,SWC-105-Unprotected Ether Withdrawal
+Amp.sol,L3,SWC-102-Outdated Compiler Version
+Amp.sol,L619,SWC-104-Unchecked Call Return Value
+Amp.sol,L1131-L1201,SWC-107-Reentrancy
+FlexaCollateralManager.sol,L1463-L1470,SWC-128-DoS With Block Gas Limit
+FundraisingMultisigTemplate.sol,L335,SWC-108-State Variable Default Visibility
+TimeHelpers.sol,L37-L39,SWC-135-Code With No Effects
+JoinSplit.sol,L75-L78,SWC-101-Integer Overflow and Underflow
+BNum.sol,L68-69,SWC-101-Integer Overflow and Underflow
+StandardBounties.sol,L2-L725,SWC-108-State Variable Default Visibility
+StandardBounties.sol,L3,SWC-103-Floating Pragma
+StandardBounties.sol,L48-L49,SWC-108-State Variable Default Visibility
+StandardBounties.sol,L246-L265,SWC-108-State Variable Default Visibility
+StandardBounties.sol,L249,SWC-101-Integer Overflow and Underflow
+AccessToken.sol,L2-308,SWC-101-Integer Overflow and Underflow
+AccessToken.sol,L302-307,SWC-135-Code With No Effects
+BrickblockAccount.sol,L84-95,SWC-105-Unprotected Ether Withdrawal
+ExchangeRateProvider.sol,L54-55,SWC-135-Code With No Effects
+TransactionManager.sol,L229 - L254,SWC-107-Reentrancy
+Accounts.sol,L387,SWC-128-DoS With Block Gas Limit
+CompHelper.sol,L27-138,SWC-104-Unchecked Call Return Value
+FLAaveV2.sol,L106-137,SWC-107-Reentrancy
+ZeroxWrapper.sol,L42-50,SWC-101-Integer Overflow and Underflow
+KyberWrapperV3.sol,L101-109,SWC-101-Integer Overflow and Underflow
+ZrxAllowlist.sol,L3-39,SWC-135-Code With No Effects
+ETHRegistrarController.sol,L46-L49,SWC-114-Transaction Order Dependence
+ETHRegistrarController.sol,L56-L65,SWC-104-Unchecked Call Return Value
+SimplePriceOracle.sol,L27-L29,SWC-101-Integer Overflow and Underflow
+StablePriceOracle.sol,L58-L64,SWC-101-Integer Overflow and Underflow
+FlywheelGaugeRewards.sol,L198,SWC-110-Assert Violation
+ERC20Gauges.sol,L500-L505,SWC-110-Assert Violation
+ERC20MultiVotes.sol,L252-261,SWC-110-Assert Violation
+xTRIBE.sol,L90-L100,SWC-105-Unprotected Ether Withdrawal
+GenesisGroup.sol,L132,SWC-101-Integer Overflow and Underflow
+EthUniswapPCVController.sol,L123,SWC-104-Unchecked Call Return Value
+Pool.sol,L121,SWC-104-Unchecked Call Return Value
+UniswapSingleEthRouter.sol,L22,SWC-110-Assert Violation
+UniswapIncentive.sol,L128-149,SWC-101-Integer Overflow and Underflow
+CollateralizationOracle.sol,L323,SWC-101-Integer Overflow and Underflow
+CollateralizationOracle.sol,L327,SWC-101-Integer Overflow and Underflow
+BalancerLBPSwapper.sol,L108-118,SWC-114-Transaction Order Dependence
+BalancerLBPSwapper.sol,L174-258,SWC-105-Unprotected Ether Withdrawal
+Hypervisor.sol,L81-142,SWC-105-Unprotected Ether Withdrawal
+Hypervisor.sol,L175-216,SWC-107-Reentrancy
+Hypervisor.sol,L415,SWC-135-Code With No Effects
+UniProxy.sol,L67-126,SWC-105-Unprotected Ether Withdrawal
+UniProxy.sol,L75-82,SWC-107-Reentrancy
+UniProxy.sol,L259-276,SWC-135-Code With No Effects
+GovernorAlpha.sol,L2,SWC-102-Outdated Compiler Version
+TokenDistributor.sol,L105-141,SWC-135-Code With No Effects
+TokenDistributor.sol,L259,SWC-133-Hash Collisions With Multiple Variable Length Arguments
+Exchange.sol,L80-90,SWC-107-Reentrancy
+DydxFlashLoanAbstraction.sol,L64-70,SWC-128-DoS With Block Gas Limit
+IdleCDO.sol,L242-258,SWC-107-Reentrancy
+IexecAccessorsABILegacyDelegate.sol,L114,SWC-128-DoS With Block Gas Limit
+Exchange.sol,L20,SWC-131-Presence of unused variables
+LibMath.sol,L90-96,SWC-131-Presence of unused variables
+AMM.sol,L17,SWC-131-Presence of unused variables
+AMM.sol,L500-502,SWC-104-Unchecked Call Return Value
+ChainlinkAdapter.sol,L18,SWC-101-Integer Overflow and Underflow
+Brokerage.sol,L2,SWC-102-Outdated Compiler Version
+Perpetual.sol,L4-5,SWC-135-Code With No Effects
+Perpetual.sol,L34-41,SWC-119-Shadowing State Variables
+Perpetual.sol,L270-289,SWC-105-Unprotected Ether Withdrawal
+Array256Lib.sol,L2-L230,SWC-101-Integer Overflow and Underflow
+BasicMathLib.sol,L1-L106,SWC-101-Integer Overflow and Underflow
+CrowdsaleLib.sol,L204-L208,SWC-106-Unprotected SELFDESTRUCT Instruction
+InteractiveCrowdsaleLib.sol,L1-L655,SWC-100-Function Default Visibility
+InteractiveCrowdsaleLib.sol,L392-L395,SWC-101-Integer Overflow and Underflow
+InteractiveCrowdsaleLib.sol,L543-550,SWC-104-Unchecked Call Return Value
+InteractiveCrowdsaleTestContract.sol,L22,SWC-135-Code With No Effects
+PaymentStartStandardExit.sol,L124,SWC-116-Block values as a proxy for time
+PlasmaFramework.sol,L7,SWC-135-Code With No Effects
+PlasmaFramework.sol,L10,SWC-135-Code With No Effects
+SimpleMultiSig.sol,L2,SWC-102-Outdated Compiler Version
+TokenFaucet.sol,L81,SWC-135-Code With No Effects
+TokenFaucet.sol,L127,SWC-135-Code With No Effects
+LootBox.sol,L64-L68,SWC-100-Function Default Visibility
+Pod.sol,L275-282,SWC-107-Reentrancy
+Pod.sol,L279,SWC-104-Unchecked Call Return Value
+TokenDrop.sol,L82-88,SWC-105-Unprotected Ether Withdrawal
+TokenDrop.sol,L141-155,SWC-107-Reentrancy
+YearnV2YieldSource.sol,L118-L129,SWC-107-Reentrancy
+LiquidStakingV2.sol,L370-404,SWC-128-DoS With Block Gas Limit
+STokensV2.sol,L125-140,SWC-128-DoS With Block Gas Limit
+ReversibleICO.sol,L230-299,SWC-113-DoS with Failed Call
+ReversibleICO.sol,L948,SWC-119-Shadowing State Variables
+RocketDAONodeTrusted.sol,L21-22,SWC-131-Presence of unused variables
+RocketDepositPool.sol,L116-129,SWC-128-DoS With Block Gas Limit
+RocketNodeStaking.sol,L150,SWC-104-Unchecked Call Return Value
+RocketNodeStaking.sol,L166,SWC-114-Transaction Order Dependence
+RocketTokenRETH.sol,L107-124,SWC-114-Transaction Order Dependence
+BountyV2.sol,L142-159,SWC-135-Code With No Effects
+Nodes.sol,L800,SWC-135-Code With No Effects
+SchainsInternal.sol,L532,SWC-128-DoS With Block Gas Limit
+DelegationRequestManager.sol,L74-76,SWC-101-Integer Overflow and Underflow
+DelegationService.sol,L152-158,SWC-135-Code With No Effects
+DelegationService.sol,L310-316,SWC-128-DoS With Block Gas Limit
+SkaleBalances.sol,L55-68,SWC-107-Reentrancy
+TokenState.sol,L65,SWC-128-DoS With Block Gas Limit
+TokenState.sol,L259-265,SWC-105-Unprotected Ether Withdrawal
+LockableERC777.sol,L399-422,SWC-107-Reentrancy
+EternalHeroesFactory.sol,L279-285,SWC-107-Reentrancy
+NodeRegistry.sol,L125-133,SWC-135-Code With No Effects
+NodeRegistry.sol,L152-159,SWC-114-Transaction Order Dependence
+Parameterizer.sol,L130,SWC-101-Integer Overflow and Underflow
+Parameterizer.sol,L135,SWC-101-Integer Overflow and Underflow
+Parameterizer.sol,L165,SWC-101-Integer Overflow and Underflow
+PLCRVoting.sol,L87,SWC-101-Integer Overflow and Underflow
+PLCRVoting.sol,L211,SWC-101-Integer Overflow and Underflow
+PLCRVoting.sol,L294 - L298,SWC-101-Integer Overflow and Underflow
+Registry.sol,L98,SWC-101-Integer Overflow and Underflow
+KeepRandomBeaconOperator.sol,L452-L494,SWC-120-Weak Sources of Randomness from Chain Attributes
+Moloch.sol,L266-305,SWC-114-Transaction Order Dependence
+Moloch.sol,L408-413,SWC-105-Unprotected Ether Withdrawal
+Moloch.sol,L638-640,SWC-101-Integer Overflow and Underflow
+Umbra.sol,L308-330,SWC-121-Missing Protection against Signature Replay Attacks
+zAuctionAccountant.sol,L44-52,SWC-135-Code With No Effects
+zAuctionAccountant.sol,L60-68,SWC-114-Transaction Order Dependence
+DynamicLiquidTokenConverter.sol,L124-L132,SWC-114-Transaction Order Dependence
+DynamicLiquidTokenConverter.sol,L125-L130,SWC-107-Reentrancy
+DynamicLiquidTokenConverterFactory.sol,L7,SWC-135-Code With No Effects
+Registrar.sol,L8-11,SWC-135-Code With No Effects
+Registrar.sol,L51-67,SWC-135-Code With No Effects
+StakingController.sol,L92-101,SWC-105-Unprotected Ether Withdrawal
+StakingController.sol,L121-153,SWC-122-Lack of Proper Signature Verification
+StakingController.sol,L135,SWC-117-Signature Malleability
+OwnableUpgradeable.sol,L23,SWC-108-State Variable Default Visibility
+AOC_BEP.sol,L115 - L126,SWC-118-Incorrect Constructor Name
+AOC_BEP.sol,L362,SWC-135-Code With No Effects
+AOC_BEP.sol,L362,SWC-105-Unprotected Ether Withdrawal
+DateTime.sol,L2,SWC-103-Floating Pragma
+AOC_ERC20.sol,L116,SWC-118-Incorrect Constructor Name
+Staking.sol,L138,SWC-100-Function Default Visibility
+Staking.sol,L203,SWC-100-Function Default Visibility
+Staking.sol,L208,SWC-100-Function Default Visibility
+Staking.sol,L213,SWC-100-Function Default Visibility
+Amoss.sol,L244 - L246,SWC-135-Code With No Effects
+ArgonFreelancers.sol,L2,SWC-102-Outdated Compiler Version
+Ania.sol,L8,SWC-102-Outdated Compiler Version
+Ania.sol,L8,SWC-103-Floating Pragma
+AniaLottery.sol,L4,SWC-102-Outdated Compiler Version
+AniaLottery.sol,L4,SWC-103-Floating Pragma
+AniaLottery.sol,L119 - L121,SWC-105-Unprotected Ether Withdrawal
+AniaStake.sol,L4,SWC-102-Outdated Compiler Version
+AniaStake.sol,L4,SWC-103-Floating Pragma
+AniaStake.sol,L185 - L194    ,SWC-128-DoS With Block Gas Limit
+MasterChef.sol,L189,SWC-128-DoS With Block Gas Limit
+MasterChef.sol,L259,SWC-128-DoS With Block Gas Limit
+BSB_StakingSmartStakers.sol,L393 - L401,SWC-128-DoS With Block Gas Limit
+BSB_StakingSmartStakers.sol,L416 - L418,SWC-128-DoS With Block Gas Limit
+Migrations.sol,L2,SWC-103-Floating Pragma
+Migrations.sol,L2,SWC-103-Floating Pragma
+Storage.sol,L63 - L76,SWC-108-State Variable Default Visibility
+Bolide.sol,L112,SWC-108-State Variable Default Visibility
+MasterChef.sol,L2,SWC-103-Floating Pragma
+TreasuryVester.sol,L2,SWC-102-Outdated Compiler Version
+BullMasterchef.sol,L196-201,SWC-128-DoS With Block Gas Limit
+CENNZnetBridge.sol,L99-120,SWC-105-Unprotected Ether Withdrawal
+CGUToken.sol,L55,SWC-100-Function Default Visibility
+CGUToken.sol,L80,SWC-100-Function Default Visibility
+ChimVesting.sol,L242,SWC-116-Block values as a proxy for time
+CDEX_rewards.sol,L3,SWC-103-Floating Pragma
+CDEX_rewards.sol,L362 - L391,SWC-104-Unchecked Call Return Value
+CDEX_rewards.sol,L395 - L420,SWC-104-Unchecked Call Return Value
+CDEX_rewards.sol,L418,SWC-104-Unchecked Call Return Value
+CDEX_rewards.sol,L424 - L456,SWC-104-Unchecked Call Return Value
+CDEX_rewards.sol,L486 - L498,SWC-104-Unchecked Call Return Value
+CDEX_rewards.sol,L615,SWC-135-Code With No Effects
+LatticeStakingPool0x74299A718b2c44483a27325d7725F0B2646DE3B1.sol,L1795,SWC-128-DoS With Block Gas Limit
+StakingRewardsFactory.sol,L52,SWC-100-Function Default Visibility
+Token.sol,L7,SWC-135-Code With No Effects
+DeHealthToken.sol,L7,SWC-103-Floating Pragma
+DProxy.sol,L7,SWC-103-Floating Pragma
+MyToken.sol,L1,SWC-103-Floating Pragma
+EDAINStaking.sol,L3,SWC-103-Floating Pragma
+EDAINToken.sol,L3,SWC-103-Floating Pragma
+TxPermission.sol,L184,SWC-131-Presence of unused variables
+TxPermission.sol,L313-L314,SWC-131-Presence of unused variables
+FidoMeta.sol,L2,SWC-103-Floating Pragma
+FidoMeta.sol,L512 - L521,SWC-119-Shadowing State Variables
+FidoMeta.sol,L555 - L587,SWC-135-Code With No Effects
+FidoMeta.sol,L775 - L782,SWC-128-DoS With Block Gas Limit
+FidoMeta.sol,L788 - L832,SWC-135-Code With No Effects
+FidoMeta.sol,L978 - L980,SWC-135-Code With No Effects
+FidoMeta.sol,L1009-L1010,SWC-101-Integer Overflow and Underflow
+FidoMeta.sol,L1043 - L1046,SWC-135-Code With No Effects
+FidoMeta.sol,L1060 - L1070,SWC-135-Code With No Effects
+FidoMeta.sol,L2,SWC-103-Floating Pragma
+FidoMeta.sol,L513 - L515,SWC-119-Shadowing State Variables
+FidoMeta.sol,L555 - L587,SWC-135-Code With No Effects
+FidoMeta.sol,L775 - L782,SWC-128-DoS With Block Gas Limit
+FidoMeta.sol,L789 - L832,SWC-135-Code With No Effects
+FidoMeta.sol,L978 - L980,SWC-135-Code With No Effects
+FidoMeta.sol,L1009 - L1010,SWC-101-Integer Overflow and Underflow
+FidoMeta.sol,L1047 - L1050,SWC-135-Code With No Effects
+FidoMeta.sol,L1062 - L1071,SWC-135-Code With No Effects
+Lockup.sol,L55,SWC-135-Code With No Effects
+Payment.sol,L85,SWC-100-Function Default Visibility
+code.sol,L25 - L27,SWC-135-Code With No Effects
+ERC721A.sol,L102 - L125,SWC-128-DoS With Block Gas Limit
+ERC721A.sol,L153 - L159,SWC-135-Code With No Effects
+ERC721A.sol,L457 - L476,SWC-135-Code With No Effects
+GovStaking.sol,L202 - L205,SWC-100-Function Default Visibility
+GovStaking.sol,L208 - L212,SWC-100-Function Default Visibility
+GovStaking.sol,L288 - l299,SWC-100-Function Default Visibility
+GovStakingStorage.sol,L7,SWC-135-Code With No Effects
+GreenHouse.sol,L96,SWC-120-Weak Sources of Randomness from Chain Attributes
+GreenHouse.sol,L98,SWC-120-Weak Sources of Randomness from Chain Attributes
+GreenHouse.sol,L209,SWC-120-Weak Sources of Randomness from Chain Attributes
+GreenHouse.sol,L216,SWC-120-Weak Sources of Randomness from Chain Attributes
+GreenHouse.sol,L386,SWC-120-Weak Sources of Randomness from Chain Attributes
+GreenHouse.sol,L400,SWC-120-Weak Sources of Randomness from Chain Attributes
+IDO.sol,L3,SWC-103-Floating Pragma
+IDO.sol,L12 - L13,SWC-135-Code With No Effects
+IDO.sol,L86 - L110,SWC-105-Unprotected Ether Withdrawal
+IDO.sol,L86 - L110,SWC-107-Reentrancy
+IDO.sol,L97,SWC-104-Unchecked Call Return Value
+IDO.sol,L149 - L154,SWC-105-Unprotected Ether Withdrawal
+IDO.sol,L153,SWC-104-Unchecked Call Return Value
+HedgeyAnySwap.sol,L49-53,SWC-100-Function Default Visibility
+CeloFuturesNFT.sol,L2,SWC-102-Outdated Compiler Version
+CeloHedgeyOTC.sol,L2,SWC-102-Outdated Compiler Version
+FuturesNFT.sol,L2,SWC-102-Outdated Compiler Version
+HedgeyOTC.sol,L2,SWC-102-Outdated Compiler Version
+HyksosBase.sol,L32-34,SWC-128-DoS With Block Gas Limit
+HyksosCyberkongz.sol,L35-37,SWC-104-Unchecked Call Return Value
+HyksosCyberkongz.sol,L39-46,SWC-104-Unchecked Call Return Value
+HyksosCyberkongz.sol,L48-54,SWC-104-Unchecked Call Return Value
+Summon.sol,L42,SWC-100-Function Default Visibility
+Summon.sol,L53,SWC-100-Function Default Visibility
+Summon.sol,L67,SWC-100-Function Default Visibility
+Summon.sol,L79,SWC-100-Function Default Visibility
+Hero.sol,L42,SWC-100-Function Default Visibility
+EpochVotingPowerStrategy.sol,L66-79,SWC-126-Insufficient Gas Griefing
+EpochVotingPowerStrategy.sol,L100-112,SWC-128-DoS With Block Gas Limit
+TokenVesting.sol,L2,SWC-103-Floating Pragma
+TokenVesting.sol,L286-302,SWC-128-DoS With Block Gas Limit
+claimToken.sol,L131-140,SWC-105-Unprotected Ether Withdrawal
+claimToken.sol,L144-156,SWC-105-Unprotected Ether Withdrawal
+Mafacoin.sol,L21,SWC-108-State Variable Default Visibility
+Mafacoin.sol,L40,SWC-108-State Variable Default Visibility
+MateCore.sol,L86,SWC-116-Block values as a proxy for time
+MateCore.sol,L166,SWC-116-Block values as a proxy for time
+MateCore.sol,L225,SWC-116-Block values as a proxy for time
+OrderBook.sol,L76,SWC-116-Block values as a proxy for time
+OrderBook.sol,L105,SWC-116-Block values as a proxy for time
+OrderBook.sol,L145,SWC-116-Block values as a proxy for time
+UniswapHandler.sol,L38,SWC-116-Block values as a proxy for time
+Vesting.sol,L322 - L329,SWC-128-DoS With Block Gas Limit
+Vesting.sol,L322 - L329,SWC-113-DoS with Failed Call
+MasterChef0x254C3233C162CDe86f1b7a91Ac801B780f79d40D.sol,L1499,SWC-128-DoS With Block Gas Limit
+MasterChef.sol,L40-44,SWC-108-State Variable Default Visibility
+SwapsUser.sol,L156-178,SWC-101-Integer Overflow and Underflow
+Oracula0x85f3ec4EC49aB6a5901278176235957ef521970d.sol,L206 - L212,SWC-100-Function Default Visibility
+Oracula0x85f3ec4EC49aB6a5901278176235957ef521970d.sol,L219 - L227,SWC-100-Function Default Visibility
+Oracula0x85f3ec4EC49aB6a5901278176235957ef521970d.sol,L860 - L884,SWC-108-State Variable Default Visibility
+Balancer.sol,L96,SWC-100-Function Default Visibility
+Balancer.sol,L102,SWC-100-Function Default Visibility
+TradeFarming.sol,L351-389,SWC-126-Insufficient Gas Griefing
+PolkaBridgeFarm.sol,L185,SWC-128-DoS With Block Gas Limit
+PowerBombAvaxCurve.sol,L269-293,SWC-107-Reentrancy
+PowerBombOneCurve.sol,uint public ibRewardTokenBaseAmt; // SWC-131-Presence of unused variables,SWC-131-Presence of unused variables
+PowerBombFtmCurveGeist.sol,L126,SWC-135-Code With No Effects
+QANX.sol,L2,SWC-103-Floating Pragma
+ETHWAXBRIDGE.sol,L10,SWC-135-Code With No Effects
+ETHWAXBRIDGE.sol,"import ""./interfaces/ERC20Interface.sol""; // SWC-135-Code With No Effects",SWC-135-Code With No Effects
+RFOXFactoryStandard.sol,L3,SWC-103-Floating Pragma
+StakingPlatform.sol,L58-L60,SWC-116-Block values as a proxy for time
+StakingPlatform.sol,L72,SWC-116-Block values as a proxy for time
+StakingPlatform.sol,L82,SWC-116-Block values as a proxy for time
+StakingPlatform.sol,L99,SWC-116-Block values as a proxy for time
+StakingPlatform.sol,L125,SWC-116-Block values as a proxy for time
+StakingPlatform.sol,L214,SWC-116-Block values as a proxy for time
+StakingPlatform.sol,L216-L217,SWC-116-Block values as a proxy for time
+StakingPlatform.sol,L250-L252,SWC-116-Block values as a proxy for time
+Staking.sol,L3,SWC-103-Floating Pragma
+Staking.sol,L27,SWC-135-Code With No Effects
+Staking.sol,L125,SWC-116-Block values as a proxy for time
+Staking.sol,L134,SWC-116-Block values as a proxy for time
+Staking.sol,L176,SWC-116-Block values as a proxy for time
+SamuraiLegendsStaking.sol,L77,SWC-116-Block values as a proxy for time
+SamuraiLegendsStaking.sol,L156,SWC-116-Block values as a proxy for time
+SamuraiLegendsStaking.sol,L251,SWC-116-Block values as a proxy for time
+SamuraiLegendsStaking.sol,L333,SWC-116-Block values as a proxy for time
+SamuraiLegendsStaking.sol,L408,SWC-116-Block values as a proxy for time
+InitializableERC20.sol,L14,SWC-102-Outdated Compiler Version
+InitializableERC20.sol,L97,SWC-100-Function Default Visibility
+InitializableERC20.sol,L109,SWC-100-Function Default Visibility
+InitializableERC20.sol,L120,SWC-100-Function Default Visibility
+InitializableERC20.sol,L125,SWC-100-Function Default Visibility
+InitializableERC20.sol,L142,SWC-100-Function Default Visibility
+InitializableERC20.sol,L149,SWC-100-Function Default Visibility
+TokenMintERC20Token0x887168120cb89Fb06F3E74Dc4AF20D67dF0977f6.sol,L13,SWC-102-Outdated Compiler Version
+SnapToken.sol,L12,SWC-103-Floating Pragma
+SnapToken.sol,L12,SWC-102-Outdated Compiler Version
+SOAR.sol,L8,SWC-103-Floating Pragma
+SpaceDogeCoin.sol,L1144,SWC-135-Code With No Effects
+SpaceDogeCoin.sol,L1172,SWC-135-Code With No Effects
+PaidTournaments.sol,L211,SWC-113-DoS with Failed Call
+STCERC20.sol,L20-21,SWC-128-DoS With Block Gas Limit
+Staking.sol,L444,SWC-116-Block values as a proxy for time
+Staking.sol,L601,SWC-116-Block values as a proxy for time
+Staking.sol,L650-L651,SWC-116-Block values as a proxy for time
+Staking.sol,L748-L749,SWC-116-Block values as a proxy for time
+Graph.sol,L82,SWC-104-Unchecked Call Return Value
+Graph.sol,L86,SWC-104-Unchecked Call Return Value
+Graph.sol,L136,SWC-104-Unchecked Call Return Value
+Livepeer.sol,L122,SWC-104-Unchecked Call Return Value
+Livepeer.sol,L162 - L164,SWC-104-Unchecked Call Return Value
+Matic.sol,L88 - L90,SWC-135-Code With No Effects
+Matic.sol,L94,SWC-104-Unchecked Call Return Value
+Matic.sol,L148,SWC-104-Unchecked Call Return Value
+Staking.sol,L80,SWC-104-Unchecked Call Return Value
+Staking.sol,L135,SWC-104-Unchecked Call Return Value
+Staking.sol,L177,SWC-104-Unchecked Call Return Value
+Staking.sol,L209,SWC-104-Unchecked Call Return Value
+TncToken.sol,L13 - L16,SWC-119-Shadowing State Variables
+ERC20Blockable.sol,L3,SWC-103-Floating Pragma
+TRKContractWithoutMintFn.sol,L23,SWC-100-Function Default Visibility
+TRKContractWithoutMintFn.sol,L31,SWC-100-Function Default Visibility
+TravelCare.sol,L3,SWC-102-Outdated Compiler Version
+StakingPool.sol,L132,SWC-104-Unchecked Call Return Value
+StakingPool.sol,L262,SWC-104-Unchecked Call Return Value
+ERC20.sol,L4,SWC-103-Floating Pragma
+ERC20.sol,L4,SWC-102-Outdated Compiler Version
+main.sol,L3,SWC-103-Floating Pragma
+main.sol,L154,SWC-104-Unchecked Call Return Value
+main.sol,L201,SWC-104-Unchecked Call Return Value
+main.sol,L215 - L218,SWC-135-Code With No Effects
+WOWSale.sol,L11,SWC-102-Outdated Compiler Version
+WOWToken.sol,L11,SWC-102-Outdated Compiler Version
+Staking.sol,L2,SWC-103-Floating Pragma
+Controller.sol,"L28, L29",SWC-131-Presence of unused variables
+ECOPToken.sol,L196 - L210,SWC-104-Unchecked Call Return Value
+ERC721TokenVault.sol,L262 - L278,SWC-113-DoS with Failed Call
+IndexERC721.sol,L16,SWC-131-Presence of unused variables
+IndexERC721.sol,L20,SWC-131-Presence of unused variables
+LixirStrategySimpleGWAP.sol,L193-198,SWC-135-Code With No Effects
+LixirVault.sol,L15-18,SWC-135-Code With No Effects
+BoringHelper.sol,L77,SWC-135-Code With No Effects
+controller-v3.sol,L34,SWC-131-Presence of unused variables
+strategy-curve-scrv-v3_1.sol,L8,SWC-135-Code With No Effects
+FarmBossV1.sol,L221,SWC-104-Unchecked Call Return Value
+aq.sol,L444,SWC-129-Typographical Error
+aq.sol,L467,SWC-129-Typographical Error
+aq.sol,L484,SWC-129-Typographical Error
+aq.sol,L505,SWC-129-Typographical Error
+aq.sol,L525,SWC-129-Typographical Error
+aq.sol,L546,SWC-129-Typographical Error
+aq.sol,L548,SWC-123-Requirement Violation
+aq.sol,L563,SWC-129-Typographical Error
+aq.sol,L444,SWC-129-Typographical Error
+aq.sol,L467,SWC-129-Typographical Error
+aq.sol,L542,SWC-123-Requirement Violation
+aq.sol,L559,SWC-129-Typographical Error
+MasterChef.sol,L262,SWC-107-Reentrancy
+MasterChef.sol,L311,SWC-107-Reentrancy
+MasterChef.sol,L261-284,SWC-107-Reentrancy
+MasterChef.sol,L287-306,SWC-107-Reentrancy
+Legendary_v9.sol,L2,SWC-103-Floating Pragma
+Legendary_v9.sol,L2,SWC-103-Floating Pragma
+Liquidity_v9(1).sol,L3,SWC-103-Floating Pragma
+Liquidity_v9(1).sol,L3,SWC-103-Floating Pragma
+HaggleToken.sol,L1077,SWC-128-DoS With Block Gas Limit
+HaggleToken.sol,L1077,SWC-128-DoS With Block Gas Limit
+ERC20.sol,L60-66,SWC-105-Unprotected Ether Withdrawal
+LeadStake.sol,L322-329,SWC-105-Unprotected Ether Withdrawal
+ERC20.sol,L60-66,SWC-105-Unprotected Ether Withdrawal
+LeadStake.sol,L322-329,SWC-105-Unprotected Ether Withdrawal
+ArthController.sol,L94,SWC-135-Code With No Effects
+ArthController.sol,L118-L126,SWC-135-Code With No Effects
+Genesis.sol,L74-77,SWC-135-Code With No Effects
+NFYTradingPlatform.sol,L18,SWC-131-Presence of unused variables
+Pluteus (1).sol,L455,SWC-129-Typographical Error
+Pluteus (1).sol,L455,SWC-129-Typographical Error
+LenderPool.sol,L375-L391,SWC-114-Transaction Order Dependence
+LGE.sol,L34,SWC-131-Presence of unused variables
+LGE.sol,L91、126、134,SWC-129-Typographical Error
+Sheesha.sol,L13-16,SWC-131-Presence of unused variables
+Sheesha.sol,L44,SWC-129-Typographical Error
+SHEESHAVaultLP.sol,L196,SWC-129-Typographical Error
+SIGHBoostersSale.sol,L96,SWC-129-Typographical Error
+SportsIconPrivateVesting.sol,L60,SWC-104-Unchecked Call Return Value
+WadzPayToken.sol,L3,SWC-103-Floating Pragma
+adminManage.sol,L3,SWC-102-Outdated Compiler Version
+BigOwner.sol,L3,SWC-102-Outdated Compiler Version
+Poll.sol,L3,SWC-102-Outdated Compiler Version
+PancakeByalanLP.sol,L1342,SWC-114-Transaction Order Dependence
+StrategyCommonChefLP.sol,L137-149,SWC-114-Transaction Order Dependence
+StrategyCommonChefLP.sol,L169-183,SWC-114-Transaction Order Dependence
+ThorusAutoStake.sol,L4,SWC-102-Outdated Compiler Version
+ThorusMaster.sol,L4,SWC-102-Outdated Compiler Version
+ThorusToken.sol,L3,SWC-102-Outdated Compiler Version
+BLSToken.sol,L2,SWC-102-Outdated Compiler Version
+CakeMaxiWorker.sol,L1,SWC-102-Outdated Compiler Version
+CakeMaxiWorker.sol,L150-186,SWC-114-Transaction Order Dependence
+SpookyswapWorker.sol,L139,SWC-114-Transaction Order Dependence
+MeowMining.sol,L3,SWC-102-Outdated Compiler Version
+Timelock.sol,L16,SWC-102-Outdated Compiler Version
+WelChainlinkOracle.sol,L1,SWC-102-Outdated Compiler Version
+MdexWorker02.sol,L14,SWC-102-Outdated Compiler Version
+MdexWorker02.sol,L234,SWC-114-Transaction Order Dependence
+MdexWorker02.sol,L239、242、243,SWC-114-Transaction Order Dependence
+MdexWorker02.sol,L345-346、352,SWC-114-Transaction Order Dependence
+PancakeswapV2Worker02.sol,L14,SWC-102-Outdated Compiler Version
+PancakeswapV2Worker02.sol,L218,SWC-114-Transaction Order Dependence
+Otoro.sol,L2,SWC-102-Outdated Compiler Version
+Revealable.sol,L98-104,SWC-128-DoS With Block Gas Limit
+MasterchefShield.sol,L14-15,SWC-131-Presence of unused variables
+MasterchefShield.sol,L18-19,SWC-131-Presence of unused variables
+RevenueSharingPool.sol,L2,SWC-103-Floating Pragma
+RevenueSharingPool.sol,L33,SWC-108-State Variable Default Visibility
+RevenueSharingPool.sol,L241-243,SWC-128-DoS With Block Gas Limit
+StratX2_PCS.sol,L2253-L2273,SWC-114-Transaction Order Dependence
+SpookySwapStrategyAddBaseTokenOnly.sol,L14,SWC-102-Outdated Compiler Version
+SpookySwapStrategyAddBaseTokenOnly.sol,L59-L105,SWC-114-Transaction Order Dependence
+SpookySwapStrategyAddTwoSidesOptimal.sol,L15,SWC-102-Outdated Compiler Version
+SpookySwapStrategyLiquidate.sol,L15,SWC-102-Outdated Compiler Version
+SpookySwapStrategyPartialCloseLiquidate.sol,L15,SWC-102-Outdated Compiler Version
+SpookySwapStrategyPartialCloseMinimizeTrading.sol,L15,SWC-102-Outdated Compiler Version
+SpookySwapStrategyWithdrawMinimizeTrading.sol,L15,SWC-102-Outdated Compiler Version
+SpookyWorker03.sol,L208-L246,SWC-114-Transaction Order Dependence
+StratAlpaca.sol,L191-L205,SWC-114-Transaction Order Dependence
+MainWorkflow.sol,L342,SWC-107-Reentrancy
+ThorusDummy.sol,L3,SWC-102-Outdated Compiler Version
+EventToken.sol,L3,SWC-102-Outdated Compiler Version
+TImelock.sol,L3,SWC-102-Outdated Compiler Version
+Staking.sol,L674,SWC-107-Reentrancy
+StrategyWardenLP.sol,L129-L136,SWC-114-Transaction Order Dependence
+WaultSwapFactory0xB42E3FE71b7E0673335b3331B3e1053BD9822570.sol,L5,SWC-102-Outdated Compiler Version
+WaultSwapRouter0xD48745E39BbED146eEC15b79cBF964884F9877c2.sol,L6,SWC-102-Outdated Compiler Version
+WusdAaveStrategy.sol,L3,SWC-102-Outdated Compiler Version
+WUSDMaster.sol,L3,SWC-103-Floating Pragma
+WUSDMaster.sol,L703-728,SWC-114-Transaction Order Dependence
+GrassHouse.sol,L14,SWC-102-Outdated Compiler Version
+KAP20Lending.sol,L2,SWC-103-Floating Pragma
+MarketImpl.sol,L32-34、37、45-47,SWC-114-Transaction Order Dependence
+MarketImpl.sol,L82、84、94、97,SWC-114-Transaction Order Dependence
+BaseRewards.sol,L75,SWC-107-Reentrancy
+BaseRewards.sol,L98,SWC-101-Integer Overflow and Underflow
+AMOCoinSale.sol,L132,SWC-116-Block values as a proxy for time
+AMOCoinSale.sol,L349,SWC-116-Block values as a proxy for time
+AMOCoinSale.sol,L358,SWC-116-Block values as a proxy for time
+Etherscan-0xb41380174d0B06181513A5677b60200b93b5Efb4.sol,L90,SWC-100-Function Default Visibility
+Etherscan-0xb41380174d0B06181513A5677b60200b93b5Efb4.sol,L94,SWC-100-Function Default Visibility
+Cloudbric.sol,L29,SWC-108-State Variable Default Visibility
+CloudbricSale.sol,L15、71,SWC-108-State Variable Default Visibility
+Crowdsale.sol,L7,SWC-103-Floating Pragma
+PausableToken.sol,L14-L16,SWC-100-Function Default Visibility
+PausableToken.sol,L18-L20,SWC-100-Function Default Visibility
+Crowdfund.sol,L61、68、76、162、173、180,SWC-116-Block values as a proxy for time
+SafeERC20.sol,L15、19、23,SWC-110-Assert Violation
+Etherscan-0x54735d716995071585A4f6ba341a6Ded79756F09.sol,L90,SWC-100-Function Default Visibility
+Etherscan-0x54735d716995071585A4f6ba341a6Ded79756F09.sol,L94,SWC-100-Function Default Visibility
+ProjectWalletAuthoriser.sol,L38,SWC-104-Unchecked Call Return Value
+contract.sol,L63,SWC-118-Incorrect Constructor Name
+contract.sol,L89 - L91,SWC-100-Function Default Visibility
+contract.sol,L93 - L95,SWC-100-Function Default Visibility
+Quotation.sol,L386,SWC-134-Message call with hardcoded gas amount
+ExchangeIssuance.sol,L248,SWC-134-Message call with hardcoded gas amount
+ExchangeIssuance.sol,"L247, L279, L349",SWC-134-Message call with hardcoded gas amount
+ExchangeIssuance.sol,L281,SWC-134-Message call with hardcoded gas amount
+ExchangeIssuance.sol,L352,SWC-134-Message call with hardcoded gas amount
+SNXFlashLoanTool.sol,L54,SWC-111-Use of Deprecated Solidity Functions
+SNXFlashLoanTool.sol,L122,SWC-111-Use of Deprecated Solidity Functions
+SNXFlashLoanTool.sol,L143,SWC-107-Reentrancy
+ExchangeRatesWithDexPricing.sol,L121-149,SWC-128-DoS With Block Gas Limit
+Exchanger.sol,L363,SWC-135-Code With No Effects
+Synthetix.sol,L96,SWC-115-Authorization through tx.origin
+NativeEtherWrapper.sol,L81,SWC-134-Message call with hardcoded gas amount
+FeePoolState.sol,L1-159,SWC-135-Code With No Effects
+SynthetixDebtShare.sol,L110-118,SWC-135-Code With No Effects
+SynthetixDebtShare.sol,L213 - L229,SWC-135-Code With No Effects
+SynthetixDebtShare.sol,L231 - L247,SWC-135-Code With No Effects
+FeePool.sol,L257,SWC-111-Use of Deprecated Solidity Functions
+FuturesMarket.sol,L946,SWC-101-Integer Overflow and Underflow
+Issuer.sol,L242,SWC-111-Use of Deprecated Solidity Functions
+ExchangeRates.sol,L548-549,SWC-101-Integer Overflow and Underflow
+EtherCollateralsUSD.sol,L504,SWC-134-Message call with hardcoded gas amount
+EtherCollateralsUSD.sol,L588,SWC-134-Message call with hardcoded gas amount
+Issuer.sol,L671,SWC-101-Integer Overflow and Underflow
+Issuer.sol,L697,SWC-101-Integer Overflow and Underflow
+TemporarilyOwned.sol,L14-L17,SWC-111-Use of Deprecated Solidity Functions
+TemporarilyOwned.sol,L19-22,SWC-111-Use of Deprecated Solidity Functions
+EmptyEtherCollateral.sol,L1-9,SWC-135-Code With No Effects
+EternalStorage.sol,L51-57,SWC-108-State Variable Default Visibility
+FeePool.sol,L257-258,SWC-101-Integer Overflow and Underflow
+Proxyable.sol,L42,SWC-108-State Variable Default Visibility
+Synthetix.sol,L434-440,SWC-114-Transaction Order Dependence
+CollateralState.sol,L1-50,SWC-135-Code With No Effects
+CollateralEth.sol,L78,SWC-134-Message call with hardcoded gas amount
+Vester.sol,L51 - L58,SWC-107-Reentrancy
+Vester.sol,L128 - L132,SWC-107-Reentrancy
+VestingEscrow.sol,L58,SWC-101-Integer Overflow and Underflow
+Distribution.sol,L73,SWC-111-Use of Deprecated Solidity Functions
+Distribution.sol,L130-L135,SWC-111-Use of Deprecated Solidity Functions
+Distribution.sol,L139,SWC-101-Integer Overflow and Underflow
+BondService.sol,L18,SWC-108-State Variable Default Visibility
+TimviSettings.sol,L30,SWC-131-Presence of unused variables
+ERC20_Contract.sol,L86,SWC-100-Function Default Visibility
+ERC20_Contract.sol,L90,SWC-100-Function Default Visibility
+DescendingPriceCryptoKitty.sol,L344,SWC-135-Code With No Effects
+DescendingPriceERC20Auction.sol,L1-481,SWC-114-Transaction Order Dependence
+DescendingPriceERC20Auction.sol,L245,SWC-135-Code With No Effects
+IndividuallyCappedCrowdsale.sol,L1-82,SWC-135-Code With No Effects
+IndividuallyCappedCrowdsale.sol,L39,SWC-128-DoS With Block Gas Limit
+MintedCrowdsale.sol,L1-28,SWC-135-Code With No Effects
+Voting.sol,L83 - L101,SWC-113-DoS with Failed Call
+Voting.sol,"L134 - L140, ",SWC-113-DoS with Failed Call
+MixinSignatureValidator.sol,L85,SWC-114-Transaction Order Dependence
+Crowdsale.sol,L148,SWC-116-Block values as a proxy for time
+RGEToken.sol,all contract,SWC-101-Integer Overflow and Underflow
+RGEToken.sol,L43,SWC-101-Integer Overflow and Underflow
+RGEToken.sol,L70,SWC-101-Integer Overflow and Underflow
+RGEToken.sol,L81 - L82,SWC-101-Integer Overflow and Underflow
+FixedRateSwap.sol,L302-315,SWC-101-Integer Overflow and Underflow
+FixedRateSwap.sol,L357,SWC-101-Integer Overflow and Underflow
+FixedRateSwap.sol,L415-434,SWC-101-Integer Overflow and Underflow
+ChainlinkCalculator.sol,"L23,27",SWC-135-Code With No Effects
+ACOToken.sol,L207,SWC-101-Integer Overflow and Underflow
+ACOToken.sol,L441-L443,SWC-114-Transaction Order Dependence
+ACOToken.sol,L570-L573,SWC-128-DoS With Block Gas Limit
+ACOToken.sol,L741,SWC-135-Code With No Effects
+ACOToken.sol,L1018,SWC-135-Code With No Effects
+IUniswapV2Router01.sol,L2-L96,SWC-135-Code With No Effects
+WMasterChef.sol,L63,SWC-104-Unchecked Call Return Value
+WStakingRewards.sol,L29,SWC-104-Unchecked Call Return Value
+ARCToken.sol,all contract,SWC-102-Outdated Compiler Version
+ARCToken.sol,L167,SWC-135-Code With No Effects
+ARCToken.sol,L188-204,SWC-135-Code With No Effects
+ARCToken.sol,L231,SWC-107-Reentrancy
+TokenVesting.sol,all contract,SWC-102-Outdated Compiler Version
+TokenVesting.sol,"L133,190",SWC-119-Shadowing State Variables
+ServiceProviderFactory.sol,L779,SWC-123-Requirement Violation
+ServiceTypeManager.sol,"L34,35",SWC-135-Code With No Effects
+Staking.sol,L39-42,SWC-108-State Variable Default Visibility
+SmartYield.sol,L439-451,SWC-126-Insufficient Gas Griefing
+BAToken.sol,"L1,all contract",SWC-102-Outdated Compiler Version
+BAToken.sol,L19-20,SWC-116-Block values as a proxy for time
+BAToken.sol,"L58,61,79",SWC-135-Code With No Effects
+BAToken.sol,L84-85,SWC-101-Integer Overflow and Underflow
+BCAPToken.sol,L2-L96,SWC-102-Outdated Compiler Version
+BCAPToken.sol,L91 ,SWC-135-Code With No Effects
+Governance.sol,L673-L694,SWC-128-DoS With Block Gas Limit
+Governance.sol,L685,SWC-123-Requirement Violation
+IdentityProxy.sol,L26,SWC-104-Unchecked Call Return Value
+MerchantSubscription.sol,L2,SWC-102-Outdated Compiler Version
+DelFiPrice.sol,"L19,22,25",SWC-108-State Variable Default Visibility
+OpenOracleData.sol,L9-28,SWC-135-Code With No Effects
+Fundraiser.sol,L9-L133,SWC-101-Integer Overflow and Underflow
+Fundraiser.sol,L9-L133,SWC-102-Outdated Compiler Version
+Fundraiser.sol,L95,SWC-107-Reentrancy
+BurnableToken.sol,L17-22,SWC-114-Transaction Order Dependence
+ContinuousCrowdsale.sol,L33,SWC-114-Transaction Order Dependence
+ContinuousCrowdsale.sol,L49,SWC-101-Integer Overflow and Underflow
+MANACrowdsale.sol,L76-93,SWC-135-Code With No Effects
+EntryPoint.sol,L52-78,SWC-135-Code With No Effects
+EntryPoint.sol,"L56-77, 95-113, 236-261, 266-282, 319-349",SWC-101-Integer Overflow and Underflow
+Administratable.sol,L48,SWC-123-Requirement Violation
+Fund.sol,L119-134,SWC-107-Reentrancy
+FundFactory.sol,L6,SWC-135-Code With No Effects
+SafeMath.sol,L1-34,SWC-135-Code With No Effects
+HackerGold.sol,L1-165,SWC-101-Integer Overflow and Underflow
+HackerGold.sol,L30,SWC-135-Code With No Effects
+HackerGold.sol,L90,SWC-135-Code With No Effects
+ProjectKudos.sol,L1,SWC-102-Outdated Compiler Version
+ProjectKudos.sol,"L20-24,281-303,313-320",SWC-135-Code With No Effects
+ProjectKudos.sol,L330-334,SWC-135-Code With No Effects
+ProjectKudos.sol,"L331,332",SWC-116-Block values as a proxy for time
+BondingCurveOrchestrator.sol,L22,SWC-108-State Variable Default Visibility
+Core.sol,"L1, all contract",SWC-102-Outdated Compiler Version
+Core.sol,L7,SWC-135-Code With No Effects
+Core.sol,L41,SWC-123-Requirement Violation
+Fei.sol,L12,SWC-135-Code With No Effects
+GenesisGroup.sol,L80-87,SWC-132-Unexpected Ether balance
+GenesisGroup.sol,L89-103,SWC-106-Unprotected SELFDESTRUCT Instruction
+GovernorAlpha.sol,L24,SWC-116-Block values as a proxy for time
+LinearTokenTimelock.sol,L60,SWC-101-Integer Overflow and Underflow
+Pool.sol,L93-98,SWC-105-Unprotected Ether Withdrawal
+Pool.sol,L100-112,SWC-123-Requirement Violation
+Pool.sol,"L120,134",SWC-104-Unchecked Call Return Value
+Roots.sol,L8,SWC-101-Integer Overflow and Underflow
+UniRef.sol,L171,SWC-135-Code With No Effects
+UniswapIncentive.sol,"L76,77",SWC-135-Code With No Effects
+FuelCrowdfund.sol,L84,SWC-104-Unchecked Call Return Value
+FuelToken.sol,L189,SWC-114-Transaction Order Dependence
+GNTAllocation.sol,L1-69,SWC-101-Integer Overflow and Underflow
+GNTAllocation.sol,L22,SWC-116-Block values as a proxy for time
+Token.sol,"L158-165,194-196",SWC-135-Code With No Effects
+CollateralsWallet.sol,L14-17,SWC-100-Function Default Visibility
+Holdefi.sol,"L214, 325, 397",SWC-134-Message call with hardcoded gas amount
+Holdefi.sol,L778,SWC-134-Message call with hardcoded gas amount
+HoldefiPauser.sol,L65-71,SWC-100-Function Default Visibility
+HoldefiPauser.sol,L74-80,SWC-100-Function Default Visibility
+HoldefiPrices.sol,L47-49,SWC-100-Function Default Visibility
+HoldefiSettings.sol,L120-122,SWC-100-Function Default Visibility
+Ownable.sol,"L26-31,34-42",SWC-114-Transaction Order Dependence
+Crowdsale.sol,L1,SWC-102-Outdated Compiler Version
+Crowdsale.sol,L241,SWC-101-Integer Overflow and Underflow
+Crowdsale.sol,"L484,485",SWC-116-Block values as a proxy for time
+MultiSigWallet.sol,L10-360,SWC-109-Uninitialized Storage Pointer
+Crowdsale.sol,L1,SWC-102-Outdated Compiler Version
+Crowdsale.sol,L1-305,SWC-101-Integer Overflow and Underflow
+Crowdsale.sol,L69,SWC-116-Block values as a proxy for time
+Crowdsale.sol,L116、145、295,SWC-116-Block values as a proxy for time
+Crowdsale.sol,L209-211,SWC-135-Code With No Effects
+RLC.sol,L1,SWC-102-Outdated Compiler Version
+RLC.sol,L37,SWC-116-Block values as a proxy for time
+RLC.sol,L49,SWC-116-Block values as a proxy for time
+RLC.sol,L62-L67,SWC-135-Code With No Effects
+RLC.sol,L69-L76,SWC-135-Code With No Effects
+RLC.sol,L79-L81,SWC-135-Code With No Effects
+RLC.sol,L83-L87,SWC-135-Code With No Effects
+RLC.sol,L97-L99,SWC-135-Code With No Effects
+KinTokenSale.sol,L148-161、165-179,SWC-128-DoS With Block Gas Limit
+Crowdsale.sol,L5,SWC-102-Outdated Compiler Version
+Crowdsale.sol,L91,SWC-135-Code With No Effects
+MoedaToken.sol,L51,SWC-101-Integer Overflow and Underflow
+ERC1155Token.sol,L10,SWC-135-Code With No Effects
+Escrow.sol,L207,SWC-101-Integer Overflow and Underflow
+EscrowStorage.sol,L61,SWC-128-DoS With Block Gas Limit
+ExchangeRate.sol,L49,SWC-135-Code With No Effects
+Liquidation.sol,L33,SWC-131-Presence of unused variables
+Ownable.sol,L1-77,SWC-125-Incorrect Inheritance Order
+RiskFramework.sol,L81,SWC-101-Integer Overflow and Underflow
+NoteERC20.sol,L135,SWC-101-Integer Overflow and Underflow
+Escrow_v1_0.sol,L39,SWC-131-Presence of unused variables
+Escrow_v1_0.sol,L491,SWC-135-Code With No Effects
+OVM_L1ERC20Gateway.sol,L76-L81,SWC-104-Unchecked Call Return Value
+OVM_L1ERC20Gateway.sol,L100,SWC-104-Unchecked Call Return Value
+OVM_ProxySequencerEntrypoint.sol,L26-L30,SWC-104-Unchecked Call Return Value
+OVM_SequencerEntrypoint.sol,L63-L70,SWC-104-Unchecked Call Return Value
+OptionsContract.sol,510,SWC-101-Integer Overflow and Underflow
+OptionsContract.sol,583,SWC-101-Integer Overflow and Underflow
+Controller.sol,L451-L508,SWC-107-Reentrancy
+OtokenFactory.sol,L65,SWC-108-State Variable Default Visibility
+PayableProxyController.sol,L74,SWC-126-Insufficient Gas Griefing
+OracleRouter.sol,L32,SWC-101-Integer Overflow and Underflow
+PolyDistribution.sol,L121,SWC-101-Integer Overflow and Underflow
+BasePool.sol,L307-L310,SWC-114-Transaction Order Dependence
+BasePool.sol,L323-L374,SWC-114-Transaction Order Dependence
+BasePool.sol,L414-L415,SWC-101-Integer Overflow and Underflow
+RecipientWhitelistERC777Pool.sol,L25-L26,SWC-108-State Variable Default Visibility
+PropsRewards.sol,L152-L199,SWC-128-DoS With Block Gas Limit
+PropsRewardsLib.sol,L43-L44,SWC-135-Code With No Effects
+recoverable-wallet.sol,L39-L57,SWC-114-Transaction Order Dependence
+recoverable-wallet.sol,L68,SWC-131-Presence of unused variables
+recoverable-wallet.sol,L88-L128,SWC-114-Transaction Order Dependence
+recoverable-wallet.sol,L124,SWC-135-Code With No Effects
+recoverable-wallet.sol,L146,SWC-131-Presence of unused variables
+RibbonVault.sol,L308,SWC-119-Shadowing State Variables
+RibbonVault.sol,L390,SWC-119-Shadowing State Variables
+RibbonVault.sol,L408,SWC-119-Shadowing State Variables
+SwapUtils.sol,L293-L295,SWC-135-Code With No Effects
+AdminImpl.sol,L258-L275,SWC-107-Reentrancy
+PromissoryToken.sol,L2-L417,SWC-102-Outdated Compiler Version
+PromissoryToken.sol,L87,SWC-135-Code With No Effects
+PromissoryToken.sol,L87,SWC-135-Code With No Effects
+PromissoryToken.sol,L163,SWC-101-Integer Overflow and Underflow
+Registry.sol,L30-L33,SWC-135-Code With No Effects
+SafeGuard.sol,L63-L64,SWC-135-Code With No Effects
+SafeGuard.sol,L69-L71,SWC-135-Code With No Effects
+PerpetualCreator.sol,L102,SWC-135-Code With No Effects
+PerpetualLiquidatable.sol,L95,SWC-102-Outdated Compiler Version
+PerpetualPositionManager.sol,L16,SWC-135-Code With No Effects
+PerpetualPositionManager.sol,L509-L517,SWC-125-Incorrect Inheritance Order
+OptimisticOracle.sol,L495,SWC-135-Code With No Effects
+SpokePool.sol,L336,SWC-117-Signature Malleability
+SpokePool.sol,L439,SWC-117-Signature Malleability
+ROSCA.sol,All,SWC-101-Integer Overflow and Underflow
+ROSCA.sol,All,SWC-102-Outdated Compiler Version
+ROSCA.sol,L199,SWC-116-Block values as a proxy for time
+ROSCA.sol,L288,SWC-135-Code With No Effects
+ROSCA.sol,L316,SWC-135-Code With No Effects
+ROSCA.sol,L342,SWC-135-Code With No Effects
+ROSCA.sol,L384,SWC-135-Code With No Effects
+ROSCA.sol,L391,SWC-135-Code With No Effects
+ROSCA.sol,L446-L456 ,SWC-135-Code With No Effects
+ROSCA.sol,L507,SWC-135-Code With No Effects
+UserConfiguration.sol,L122,SWC-101-Integer Overflow and Underflow
+FlashLoanLogic.sol,L182-L240,SWC-107-Reentrancy
+ReserveLogic.sol,L213-L222,SWC-131-Presence of unused variables
+Staking.sol,L39 - L52,SWC-131-Presence of unused variables
+Swap.sol,L178 - L187,SWC-113-DoS with Failed Call
+Wrapper.sol,L152,SWC-104-Unchecked Call Return Value
+Swap_Factory_Future.sol,L292-L322,SWC-101-Integer Overflow and Underflow
+Swap_Factory_Future.sol,L360-L380,SWC-107-Reentrancy
+AToken.sol,L738-L802,SWC-107-Reentrancy
+MasterChef.sol,L249-L267,SWC-107-Reentrancy
+BankingNode.sol,L453-L470,SWC-114-Transaction Order Dependence
+BankingNode.sol,L615-L637,SWC-107-Reentrancy
+bVault.sol,L357-L375,SWC-107-Reentrancy
+BufferBNBOptions.sol,L142-L189,SWC-107-Reentrancy
+CogiNFTMarket.sol,L87-L102,SWC-134-Message call with hardcoded gas amount
+code.sol,L181,SWC-107-Reentrancy
+StakingProxyUniV3.sol,L94-L113,SWC-107-Reentrancy
+CryptoHeroesUniverse.sol,L175 - L203,SWC-107-Reentrancy
+code.sol,L44 - L56,SWC-131-Presence of unused variables
+SkyRewardPool.sol,L217-L234,SWC-107-Reentrancy
+SafeMath.sol,L56,SWC-101-Integer Overflow and Underflow
+DjiinAutoBuyer.sol,L154-L169,SWC-114-Transaction Order Dependence
+Market.sol,L9-L18,SWC-131-Presence of unused variables
+Random.sol,L11-L35,SWC-120-Weak Sources of Randomness from Chain Attributes
+SinglePool.sol,L202-L214,SWC-107-Reentrancy
+vDSGToken.sol,L351-L357,SWC-101-Integer Overflow and Underflow
+DYTokenERC20.sol,L29-L57,SWC-114-Transaction Order Dependence
+VaultFarm.sol,L111-L126,SWC-100-Function Default Visibility
+code.sol,L592 - L594,SWC-135-Code With No Effects
+code.sol,L1030 - L1040,SWC-107-Reentrancy
+LCToken.sol,L222-L232,SWC-107-Reentrancy
+StratX2_HERO_QuickV2.sol,L2623-L2643,SWC-114-Transaction Order Dependence
+HegicPool.sol,L373 - L409,SWC-107-Reentrancy
+Math.sol,L30,SWC-101-Integer Overflow and Underflow
+HegicOperationalTreasury.sol,L181,SWC-101-Integer Overflow and Underflow
+Holdefi.sol,L1292-L1344,SWC-107-Reentrancy
+HoldefiSettings.sol,L322-L341,SWC-135-Code With No Effects
+MasterChef.sol,L68,SWC-135-Code With No Effects
+RToken.sol,L1133,SWC-135-Code With No Effects
+Bank.sol,L107,SWC-101-Integer Overflow and Underflow
+MasterChefGoblinConfig.sol,L68-L69,SWC-101-Integer Overflow and Underflow
+masterchef.sol,L103 - L115,SWC-135-Code With No Effects
+masterchef.sol,L196 - L208,SWC-107-Reentrancy
+ERC721Enumerable.sol,L3,SWC-103-Floating Pragma
+MasterChef.sol,L173 - L190,SWC-135-Code With No Effects
+LuckyToken.sol,L54,SWC-135-Code With No Effects
+MutiRewardPool.sol,L178-L200,SWC-135-Code With No Effects
+Meta.sol,L48,SWC-101-Integer Overflow and Underflow
+MasterMilker.sol,L237-L244,SWC-107-Reentrancy
+OlympusERC20.sol,L1245-L1303,SWC-135-Code With No Effects
+OneSwapBuyback.sol,L44-L59,SWC-135-Code With No Effects
+OneSwapPair.sol,L1002,SWC-101-Integer Overflow and Underflow
+OLETokenLock.sol,L22-L31,SWC-135-Code With No Effects
+LPool.sol,L845-L885,SWC-107-Reentrancy
+Random.sol,L20-L41,SWC-120-Weak Sources of Randomness from Chain Attributes
+PikaPerpV2.sol,L402-459,SWC-107-Reentrancy
+PikaStaking.sol,L11-L140,SWC-135-Code With No Effects
+tier2Aave.sol,205-253,SWC-135-Code With No Effects
+tier2Farm.sol,L67-L93,SWC-135-Code With No Effects
+VirtualTrade.sol,L107-L112,SWC-135-Code With No Effects
+PLiquidateAgent.sol,L11-L12,SWC-135-Code With No Effects
+PMintBurn.sol,L48-L63,SWC-107-Reentrancy
+QubitToken.sol,L40-57,SWC-135-Code With No Effects
+RToken.sol,L480-L487,SWC-135-Code With No Effects
+RToken.sol,L738-L802,SWC-107-Reentrancy
+MasterShiba.sol,L339 - L341,SWC-107-Reentrancy
+ShibaLibrary.sol,L30 - L35,SWC-135-Code With No Effects
+code.sol,L707,SWC-101-Integer Overflow and Underflow
+LPGauge.sol,L75-L89,SWC-107-Reentrancy
+VCTreasuryV1.sol,L181,SWC-101-Integer Overflow and Underflow
+ApprovalChain.sol,L76,SWC-101-Integer Overflow and Underflow
+MasterChef.sol,L108-L120,SWC-135-Code With No Effects
+MasterChef.sol,L219-L230,SWC-107-Reentrancy
+LiquidityStaking.sol,L60-L69,SWC-107-Reentrancy
+StakingV2.sol,L340-L359,SWC-107-Reentrancy
+FundV3.sol,L30-L41,SWC-135-Code With No Effects
+USR.sol,L279 - L282,SWC-114-Transaction Order Dependence
+USR.sol,L295,SWC-129-Typographical Error
+StakingModel.sol,L37 - L41,SWC-135-Code With No Effects
+StakingModel.sol,L92,SWC-101-Integer Overflow and Underflow
+VVET9.sol,L29 - L34,SWC-135-Code With No Effects
+VVET9.sol,L44-48,SWC-114-Transaction Order Dependence
+VToken.sol,L480-L488,SWC-135-Code With No Effects
+XSwap.sol,L152,SWC-101-Integer Overflow and Underflow
+Ambix.sol,L36,SWC-128-DoS With Block Gas Limit
+LighthouseLib.sol,L2,SWC-102-Outdated Compiler Version
+LighthouseLib.sol,L24,SWC-107-Reentrancy
+LighthouseLib.sol,L54,SWC-101-Integer Overflow and Underflow
+LighthouseLib.sol,L85,SWC-115-Authorization through tx.origin
+RobotLiabilityLib.sol,L74-L75,SWC-133-Hash Collisions With Multiple Variable Length Arguments
+RobotLiabilityLib.sol,L104,SWC-107-Reentrancy
+kickico_token_v1.sol,L71 - L81,SWC-135-Code With No Effects
+kickico_token_v1.sol,L301,SWC-135-Code With No Effects
+RandomBase.sol,L24-L27,SWC-135-Code With No Effects
+BridgeValidators.sol,L31,SWC-135-Code With No Effects
+HomeBridgeNativeToErc.sol,L46,SWC-113-DoS with Failed Call
+DutchCrowdsaleIdx.sol,L363 - L381,SWC-101-Integer Overflow and Underflow
+Contract.sol,L334,SWC-135-Code With No Effects
+CumulativeMerkleDrop.sol,L14,SWC-135-Code With No Effects
+ERC20Farmable.sol,L71 - L73,SWC-128-DoS With Block Gas Limit
+ERC20Farmable.sol,L118 - L137,SWC-128-DoS With Block Gas Limit
+ERC20Farmable.sol,L123 - L130,SWC-128-DoS With Block Gas Limit
+ERC20Farmable.sol,L140 - L147,SWC-128-DoS With Block Gas Limit
+UserAccounting.sol,L30,SWC-101-Integer Overflow and Underflow
+FeeCollector.sol,L340 - L343,SWC-107-Reentrancy
+FeeCollector.sol,L361,SWC-114-Transaction Order Dependence
+FixedRateSwap.sol,L137,SWC-107-Reentrancy
+FixedRateSwap.sol,L173 - L180,SWC-135-Code With No Effects
+FixedRateSwap.sol,L214 - L222,SWC-135-Code With No Effects
+FixedRateSwap.sol,L323,SWC-107-Reentrancy
+FixedRateSwap.sol,L346 - L358,SWC-135-Code With No Effects
+FixedRateSwap.sol,L388 - L401,SWC-135-Code With No Effects
+FixedFeeSwap.sol,L21 -L21,SWC-131-Presence of unused variables
+LimitOrderProtocol.sol,L28 - L346,SWC-107-Reentrancy
+LimitOrderProtocol.sol,L339,SWC-128-DoS With Block Gas Limit
+ERC721Proxy.sol,L16 - L17,SWC-123-Requirement Violation
+ERC20Permit.sol,L53,SWC-114-Transaction Order Dependence
+BridgeExecutorBase.sol,L203,SWC-131-Presence of unused variables
+BridgeExecutorBase.sol,L237,SWC-131-Presence of unused variables
+BridgeExecutorBase.sol,270,SWC-131-Presence of unused variables
+BridgeExecutorBase.sol,L203,SWC-131-Presence of unused variables
+BridgeExecutorBase.sol,L237,SWC-131-Presence of unused variables
+BridgeExecutorBase.sol,L271,SWC-131-Presence of unused variables
+DistributionManager.sol,L29,SWC-119-Shadowing State Variables
+StakedTokenIncentivesController.sol,L97,SWC-119-Shadowing State Variables
+StakedTokenIncentivesController.sol,L123,SWC-119-Shadowing State Variables
+StakedTokenIncentivesController.sol,L129,SWC-119-Shadowing State Variables
+StakedTokenIncentivesController.sol,L185,SWC-119-Shadowing State Variables
+BaseParaSwapAdapter.sol,L79,SWC-107-Reentrancy
+BaseParaSwapAdapter.sol,L104,SWC-104-Unchecked Call Return Value
+BaseParaSwapSellAdapter.sol,L35,SWC-107-Reentrancy
+BaseParaSwapSellAdapter.sol,L53,SWC-101-Integer Overflow and Underflow
+AbyssEth2Depositor.sol,L61 - L90,SWC-122-Lack of Proper Signature Verification
+AbyssEth2Depositor.sol,L82,SWC-107-Reentrancy
+acyc.sol,L153,SWC-135-Code With No Effects
+acyc.sol,L160,SWC-135-Code With No Effects
+acyc.sol,L176,SWC-126-Insufficient Gas Griefing
+acyc.sol,L331,SWC-107-Reentrancy
+AgriUTToken.sol,L3,SWC-103-Floating Pragma
+Etherscan-0xa957045A12D270e2eE0dcA9A3340c340e05d4670.sol,L5,SWC-102-Outdated Compiler Version
+Migrations.sol,L2,SWC-102-Outdated Compiler Version
+Migrations.sol,L2,SWC-102-Outdated Compiler Version
+AkropolisToken.sol,L42,SWC-113-DoS with Failed Call
+AkropolisToken.sol,L77,SWC-113-DoS with Failed Call
+AkropolisToken.sol,L95,SWC-113-DoS with Failed Call
+Etherscan-0x70Cbf5E72A85B41808EF20f6EB05A9b8F223F220.sol,L11,SWC-103-Floating Pragma
+stakin_contract.sol,L5,SWC-103-Floating Pragma
+stakin_contract.sol,L74 - L84,SWC-107-Reentrancy
+MasterChef.sol,L163 - L171,SWC-107-Reentrancy
+MasterChef.sol,L271 - L281,SWC-128-DoS With Block Gas Limit
+MasterChef.sol,L284 - L289,SWC-128-DoS With Block Gas Limit
+Migrations.sol,L3,SWC-103-Floating Pragma
+Asset.sol,L4,SWC-103-Floating Pragma
+ERC20.sol,L63 - L66,SWC-114-Transaction Order Dependence
+Pool.sol,L330,SWC-116-Block values as a proxy for time
+Vesting.sol,L181 - L193,SWC-128-DoS With Block Gas Limit
+Vesting.sol,"L99, L111, L153, L180, L211",SWC-128-DoS With Block Gas Limit
+Vesting.sol,L218,SWC-116-Block values as a proxy for time
+Voting.sol,L108-110,SWC-119-Shadowing State Variables
+AMPTChild.sol,L35,SWC-108-State Variable Default Visibility
+BEP20Token.sol,L5,SWC-102-Outdated Compiler Version
+Token.sol,L4,SWC-103-Floating Pragma
+code.sol,L5,SWC-103-Floating Pragma
+code.sol,L6,SWC-102-Outdated Compiler Version
+code.sol,L975 - L981,SWC-135-Code With No Effects
+AvatarArtArtistKYC.sol,L3,SWC-102-Outdated Compiler Version
+AvatarArtArtistKYC.sol,L12,SWC-135-Code With No Effects
+code.sol,L7,SWC-103-Floating Pragma
+Treasury.sol,L166 - L168,SWC-101-Integer Overflow and Underflow
+BackedToken.sol,L12,SWC-119-Shadowing State Variables
+BackedToken.sol,L28,SWC-100-Function Default Visibility
+BsktLPPool.sol,L10,SWC-102-Outdated Compiler Version
+BsktLPPool.sol,L10,SWC-103-Floating Pragma
+BsktLPPool.sol,"L350, L356-359",SWC-135-Code With No Effects
+BsktLPPool.sol,L363,SWC-116-Block values as a proxy for time
+BCubePublicSale.sol,L2,SWC-102-Outdated Compiler Version
+BCubePublicSale.sol,L162,SWC-120-Weak Sources of Randomness from Chain Attributes
+BCubePublicSale.sol,L173,SWC-120-Weak Sources of Randomness from Chain Attributes
+BCubePublicSale.sol,L264 - L278,SWC-107-Reentrancy
+Etherscan-0x98a56c7b03eedb7acc46308611561622e51ec13a.sol,L70,SWC-103-Floating Pragma
+Etherscan-0x98a56c7b03eedb7acc46308611561622e51ec13a.sol,L407-430,SWC-135-Code With No Effects
+Etherscan-0x98a56c7b03eedb7acc46308611561622e51ec13a.sol,// SWC-104-Unchecked Call Return Value,SWC-104-Unchecked Call Return Value
+StandardToken.sol,L167,SWC-113-DoS with Failed Call
+StandardToken.sol,L121,SWC-100-Function Default Visibility
+BNRG.sol,L105,SWC-100-Function Default Visibility
+BMON_Z1.sol,L104,SWC-100-Function Default Visibility
+BitBookStake.sol,L113,SWC-100-Function Default Visibility
+BitBookStaking.sol,L926,SWC-100-Function Default Visibility
+bitdiamond.sol,L404,SWC-119-Shadowing State Variables
+bitdiamond.sol,L460,SWC-135-Code With No Effects
+Sliced.sol,L72,SWC-116-Block values as a proxy for time
+Bollystake.sol,L10,SWC-103-Floating Pragma
+Bollystake.sol,L772,SWC-100-Function Default Visibility
+Bollystake.sol,L846,SWC-135-Code With No Effects
+Bollystake.sol,L846-847,SWC-108-State Variable Default Visibility
+Bollystake.sol,L1022,SWC-116-Block values as a proxy for time
+Investment.sol,L148,SWC-101-Integer Overflow and Underflow
+Market.sol,L189,SWC-135-Code With No Effects
+RealAssetDepositaryBalanceView.sol,L89,SWC-122-Lack of Proper Signature Verification
+ProfitSplitter.sol,L228,SWC-107-Reentrancy
+Investment.sol,L148,SWC-101-Integer Overflow and Underflow
+AgregateDepositaryBalanceView.sol,L50 - L71,SWC-135-Code With No Effects
+ProfitSplitter.sol,L228,SWC-107-Reentrancy
+bridgeToken.sol,L5,SWC-103-Floating Pragma
+bridgeToken.sol,L172,SWC-100-Function Default Visibility
+bridgeToken.sol,L485-500,SWC-135-Code With No Effects
+bridgeToken.sol,L5,SWC-103-Floating Pragma
+bridgeToken.sol,L117,SWC-135-Code With No Effects
+bridgeToken.sol,"L249, L257",SWC-100-Function Default Visibility
+bridgeToken.sol,L485,SWC-135-Code With No Effects
+BsktEthLPPool.sol,L7,SWC-102-Outdated Compiler Version
+BsktEthLPPool.sol,"L400, L417",SWC-116-Block values as a proxy for time
+BsktEthLPPool.sol,L459-462,SWC-107-Reentrancy
+burst.sol,L1,SWC-102-Outdated Compiler Version
+burst.sol,L1,SWC-103-Floating Pragma
+burst.sol,L60,SWC-101-Integer Overflow and Underflow
+burst.sol,L71-75,SWC-114-Transaction Order Dependence
+BEP20Token.sol,L368-370,SWC-135-Code With No Effects
+BEP20Token.sol,L557-563,SWC-135-Code With No Effects
+BEP20Token.sol,L592-595,SWC-135-Code With No Effects
+CCollateralCapErc20.sol,L410,SWC-135-Code With No Effects
+CCollateralCapErc20Delegate.sol,L23,SWC-131-Presence of unused variables
+CCollateralCapErc20Delegate.sol,L27 - L29,SWC-131-Presence of unused variables
+Comptroller.sol,L240,SWC-131-Presence of unused variables
+Comptroller.sol,L274,SWC-135-Code With No Effects
+Comptroller.sol,L412,SWC-135-Code With No Effects
+Comptroller.sol,L462,SWC-135-Code With No Effects
+Comptroller.sol,L530,SWC-135-Code With No Effects
+Comptroller.sol,L596,SWC-135-Code With No Effects
+Comptroller.sol,L644,SWC-135-Code With No Effects
+Comptroller.sol,L1266,SWC-126-Insufficient Gas Griefing
+CCapableErc20.sol,L133,SWC-107-Reentrancy
+Vesting.sol,L3,SWC-103-Floating Pragma
+Vesting.sol,L149,SWC-135-Code With No Effects
+Bridge.sol,"L1, all contract",SWC-103-Floating Pragma
+CLEToken.sol,L410-412,SWC-119-Shadowing State Variables
+CLEToken.sol,L887-898,SWC-126-Insufficient Gas Griefing
+CheckDot.sol,L3,SWC-102-Outdated Compiler Version
+CheckDotPrivateSale.sol,L3,SWC-103-Floating Pragma
+CheckDotPrivateSale.sol,L3,SWC-103-Floating Pragma
+chronicToken.sol,L11,SWC-102-Outdated Compiler Version
+chronicToken.sol,L847-858,SWC-128-DoS With Block Gas Limit
+chronicToken.sol,L942-952,SWC-128-DoS With Block Gas Limit
+CitrusToken.sol,L132,SWC-104-Unchecked Call Return Value
+Main.sol,L2,SWC-102-Outdated Compiler Version
+Main.sol,L51,SWC-107-Reentrancy
+CoinDogg.sol,L387,SWC-101-Integer Overflow and Underflow
+CoinDogg.sol,L407,SWC-101-Integer Overflow and Underflow
+CoinMama.sol,L1,SWC-102-Outdated Compiler Version
+CoinMama.sol,L648-652,SWC-135-Code With No Effects
+CoinMama.sol,L1137-1139,SWC-105-Unprotected Ether Withdrawal
+CoinPokerChipsToken.sol,L5 - L8,SWC-135-Code With No Effects
+COX.sol,L7,SWC-103-Floating Pragma
+CrazyToken.sol,L12,SWC-103-Floating Pragma
+cronospad.sol,L3,SWC-103-Floating Pragma
+CryptoBatz.sol,L355 - L374,SWC-116-Block values as a proxy for time
+CryptoGamez.sol,L6,SWC-103-Floating Pragma
+ERC20.sol,L211,SWC-104-Unchecked Call Return Value
+Define.sol,L2,SWC-103-Floating Pragma
+Define.sol,L474 - L489,SWC-135-Code With No Effects
+DefineDividendTracker.sol,L2,SWC-103-Floating Pragma
+StakingRewards.sol,L4,SWC-102-Outdated Compiler Version
+StakingRewards.sol,L4,SWC-103-Floating Pragma
+StakingRewards.sol,L87,SWC-120-Weak Sources of Randomness from Chain Attributes
+StakingRewards.sol,"L223, L225, L227",SWC-120-Weak Sources of Randomness from Chain Attributes
+StakingRewards.sol,L239,SWC-120-Weak Sources of Randomness from Chain Attributes
+StakingRewards.sol,244,SWC-120-Weak Sources of Randomness from Chain Attributes
+StakingRewardsFactory.sol,L36,SWC-120-Weak Sources of Randomness from Chain Attributes
+StakingRewardsFactory.sol,L122,SWC-120-Weak Sources of Randomness from Chain Attributes
+DictatorDOGE.sol,L1021-1034,SWC-128-DoS With Block Gas Limit
+DoxyFinance_V3.sol,"L3, all contract",SWC-103-Floating Pragma
+DoxyFinance_V3.sol,L270,SWC-108-State Variable Default Visibility
+DoxyFinance_V3.sol,L282-284,SWC-108-State Variable Default Visibility
+DoxyFinance_V3.sol,"L284, L312-315",SWC-135-Code With No Effects
+DoxyFinance_V3.sol,"L339, 488, 500, 514, 658, 661, 780, 781, 782, 783, 784, 785, 821, 261, 262",SWC-129-Typographical Error
+DoxyFinance_V3.sol,"L373-381, 393-411, 413-430, 432-443, 445-460, 679-695, 754-756, 758-764, 824-826, 828-830, 832-834, 836-838, 881-883, 972-974, 976-978, 980-982, 984-986, 988-990, 998-1000, 1002-1004, 1010-1012, 1014-1016, 1077-1079",SWC-100-Function Default Visibility
+DoxyFinance_V3.sol,L497-502，511-516,SWC-122-Lack of Proper Signature Verification
+DoxyFinance_V3.sol,L809-818,SWC-135-Code With No Effects
+DoxyFinance_V3.sol,"L918, 928, 938, 948, 958, 968",SWC-129-Typographical Error
+Falcons.sol,L755-766,SWC-114-Transaction Order Dependence
+Fundum.sol,L3,SWC-103-Floating Pragma
+Fundum.sol,"L351,369,388",SWC-116-Block values as a proxy for time
+token_audit.sol,L5,SWC-108-State Variable Default Visibility
+token_audit.sol,"L21,83",SWC-135-Code With No Effects
+GameZilla.sol,L6,SWC-103-Floating Pragma
+GARFIELD.sol,L693-707,SWC-120-Weak Sources of Randomness from Chain Attributes
+CurveV1.sol,L49 - L85,SWC-107-Reentrancy
+CurveV1.sol,L97 - L103,SWC-135-Code With No Effects
+CurveV1.sol,L114 - L120,SWC-135-Code With No Effects
+UniswapV2.sol,L56,SWC-107-Reentrancy
+UniswapV2.sol,L110,SWC-107-Reentrancy
+UniswapV3.sol,L52,SWC-107-Reentrancy
+UniswapV3.sol,L106,SWC-107-Reentrancy
+UniswapV3.sol,L105,SWC-124-Write to Arbitrary Storage Location
+UniswapV3.sol,L153,SWC-107-Reentrancy
+UniswapV3.sol,L154,SWC-107-Reentrancy
+UniswapV3.sol,L206,SWC-124-Write to Arbitrary Storage Location
+UniswapV3.sol,L210,SWC-107-Reentrancy
+YearnV2.sol,L78,SWC-107-Reentrancy
+YearnV2.sol,L132,SWC-135-Code With No Effects
+YearnV2.sol,L132,SWC-107-Reentrancy
+ContractsRegister.sol,L17,SWC-108-State Variable Default Visibility
+ContractsRegister.sol,L21,SWC-108-State Variable Default Visibility
+DataCompressor.sol,L73,SWC-135-Code With No Effects
+WETHGateway.sol,L98 - L112,SWC-107-Reentrancy
+WETHGateway.sol,L120 - L140,SWC-107-Reentrancy
+WETHGateway.sol,L151 - L171,SWC-107-Reentrancy
+WETHGateway.sol,L179 - L199,SWC-107-Reentrancy
+CreditFilter.sol,L157,SWC-135-Code With No Effects
+CreditFilter.sol,L196,SWC-135-Code With No Effects
+CreditFilter.sol,L299 - L300,SWC-135-Code With No Effects
+CreditFilter.sol,L346,SWC-135-Code With No Effects
+CreditManager.sol,L594 - L595,SWC-101-Integer Overflow and Underflow
+CreditManager.sol,L829,SWC-124-Write to Arbitrary Storage Location
+YearnPriceFeed.sol,L18 - L69,SWC-135-Code With No Effects
+Types.sol,L1 - L115,SWC-135-Code With No Effects
+PoolService.sol,L145,SWC-101-Integer Overflow and Underflow
+PoolService.sol,L238 - L258,SWC-107-Reentrancy
+GearNFT.sol,L15,SWC-135-Code With No Effects
+GearToken.sol,L108,SWC-135-Code With No Effects
+GLONK.sol,L6,SWC-102-Outdated Compiler Version
+GLONK.sol,L6,SWC-103-Floating Pragma
+GLONK.sol,L510-513,SWC-114-Transaction Order Dependence
+GLONK.sol,L805-818,SWC-120-Weak Sources of Randomness from Chain Attributes
+TokenSale.sol,L12 - L22,SWC-108-State Variable Default Visibility
+Stake.sol,L1,SWC-103-Floating Pragma
+Stake.sol,"L3-L13, L101-122",SWC-135-Code With No Effects
+Stake.sol,L263,SWC-111-Use of Deprecated Solidity Functions
+Stake.sol,L276 ,SWC-100-Function Default Visibility
+Stake.sol,L438,SWC-123-Requirement Violation
+StakingRewardsV3-1.sol,L10 - L12,SWC-135-Code With No Effects
+StakingRewardsV3-1.sol,L104 - L118,SWC-108-State Variable Default Visibility
+StakingRewardsV3-1.sol,L210 - L226,SWC-107-Reentrancy
+StakingRewardsV3-1.sol,L298 - L301,SWC-135-Code With No Effects
+SignedSafeMath.sol,L1 -L93,SWC-102-Outdated Compiler Version
+AStETH.sol,L595,SWC-101-Integer Overflow and Underflow
+VariableDebtStETH.sol,L175 - L177,SWC-135-Code With No Effects
+Voting.sol,L191-193,SWC-135-Code With No Effects
+Lido.sol,L301,SWC-126-Insufficient Gas Griefing
+Lido.sol,L618 - L626,SWC-128-DoS With Block Gas Limit
+NodeOperatorsRegistry.sol,L215 - L222,SWC-128-DoS With Block Gas Limit
+NodeOperatorsRegistry.sol,L289,SWC-101-Integer Overflow and Underflow
+NodeOperatorsRegistry.sol,L314,SWC-101-Integer Overflow and Underflow
+NodeOperatorsRegistry.sol,L542 - L555,SWC-135-Code With No Effects
+NodeOperatorsRegistry.sol,L567 - L590,SWC-135-Code With No Effects
+NodeOperatorsRegistry.sol,L573,SWC-135-Code With No Effects
+NodeOperatorsRegistry.sol,L644,SWC-135-Code With No Effects
+NodeOperatorsRegistry.sol,L650 - L676,SWC-135-Code With No Effects
+NodeOperatorsRegistry.sol,L655,SWC-135-Code With No Effects
+DepositSecurityModule.sol,L62,SWC-108-State Variable Default Visibility
+DepositSecurityModule.sol,L100 - L101,SWC-135-Code With No Effects
+Ledger.sol,L298,SWC-101-Integer Overflow and Underflow
+Lido.sol,L202,SWC-131-Presence of unused variables
+Lido.sol,L609,SWC-101-Integer Overflow and Underflow
+Lido.sol,L732,SWC-101-Integer Overflow and Underflow
+Lido.sol,L140 - L143,SWC-135-Code With No Effects
+Lido.sol,L160 - L167,SWC-135-Code With No Effects
+LidoMevTxFeeVault.sol,L80 - L82,SWC-105-Unprotected Ether Withdrawal
+PriceFeedProxy.sol,L59,SWC-135-Code With No Effects
+PriceFeedProxy.sol,L71,SWC-135-Code With No Effects
+MerklePatriciaProofVerifier.sol,L38,SWC-131-Presence of unused variables
+WithdrawalsManagerProxy.sol,L71,SWC-135-Code With No Effects
+WstETH.sol,L58,SWC-104-Unchecked Call Return Value
+WstETH.sol,L75,SWC-104-Unchecked Call Return Value
+LockletPrivateSale.sol,L4,SWC-103-Floating Pragma
+LockletToken.sol,L4,SWC-103-Floating Pragma
+LockletTokenVault.sol,L4,SWC-103-Floating Pragma
+LockletTokenVault.sol,L166 - L184,SWC-128-DoS With Block Gas Limit
+LockletTokenVault.sol,L247 - L262,SWC-128-DoS With Block Gas Limit
+LockletTokenVault.sol,L313 - L320,SWC-128-DoS With Block Gas Limit
+LockletTokenVault.sol,L332 - L335,SWC-128-DoS With Block Gas Limit
+LockletTokenVault.sol,L347 - L350,SWC-128-DoS With Block Gas Limit
+LockletTokenVault.sol,L393 - L398,SWC-128-DoS With Block Gas Limit
+LockletTokenVault.sol,L410,SWC-116-Block values as a proxy for time
+LockletTokenVault.sol,430,SWC-116-Block values as a proxy for time
+LTOToken.sol,L61,SWC-101-Integer Overflow and Underflow
+LTOTokenSale.sol,L144 - L150,SWC-135-Code With No Effects
+LTOTokenSale.sol,L216,SWC-126-Insufficient Gas Griefing
+LTOTokenSale.sol,L224 - L226,SWC-135-Code With No Effects
+LTOTokenSale.sol,L229 - L234,SWC-135-Code With No Effects
+LTOTokenSale.sol,L238 - L245,SWC-135-Code With No Effects
+LTOTokenSale.sol,L238 - L245,SWC-104-Unchecked Call Return Value
+TokenInfo.sol,L464-467,SWC-114-Transaction Order Dependence
+TokenInfo.sol,L884,SWC-103-Floating Pragma
+BPool.sol,L559 - L565,SWC-135-Code With No Effects
+LockedStakingRewards.sol,L30 - L32,SWC-128-DoS With Block Gas Limit
+MetaWaferse.sol,L6,SWC-103-Floating Pragma
+MetaWaferse.sol,L145,SWC-135-Code With No Effects
+TokenDetail.sol,L867,SWC-103-Floating Pragma
+MiniDOGE.sol,"L572-575,586-590",SWC-107-Reentrancy
+MiniDOGE.sol,L1029-1045,SWC-128-DoS With Block Gas Limit
+moonship.sol,L995.1009,SWC-107-Reentrancy
+moonship.sol,L1245,SWC-135-Code With No Effects
+Token.sol,L3,SWC-103-Floating Pragma
+Token.sol,L3,SWC-102-Outdated Compiler Version
+TaxableTeamToken.sol,"L3,all contract",SWC-102-Outdated Compiler Version
+MainToken.sol,L20,SWC-102-Outdated Compiler Version
+MainToken.sol,L408,SWC-101-Integer Overflow and Underflow
+MainToken.sol,L481,SWC-116-Block values as a proxy for time
+MainToken.sol,L509,SWC-116-Block values as a proxy for time
+MainToken.sol,L511,SWC-101-Integer Overflow and Underflow
+MainToken.sol,L526,SWC-116-Block values as a proxy for time
+crv-locker.sol,L87,SWC-131-Presence of unused variables
+strategy-cmpd-dai-v1.sol,L287,SWC-128-DoS With Block Gas Limit
+strategy-curve-scrv-v4_1.sol,L153-197,SWC-114-Transaction Order Dependence
+BasketFacet.sol,L46 - L53,SWC-128-DoS With Block Gas Limit
+BasketFacet.sol,L128 - L132,SWC-128-DoS With Block Gas Limit
+BasketFacet.sol,L161 - L168,SWC-128-DoS With Block Gas Limit
+BasketFacet.sol,L204,SWC-116-Block values as a proxy for time
+BasketFacet.sol,L214,SWC-116-Block values as a proxy for time
+BasketFacet.sol,L278 - L287,SWC-128-DoS With Block Gas Limit
+BasketFacet.sol,L301 - L308,SWC-128-DoS With Block Gas Limit
+CallFacet.sol,L44 - L53,SWC-128-DoS With Block Gas Limit
+CallFacet.sol,L69 -L71,SWC-128-DoS With Block Gas Limit
+CallFacet.sol,L84 - L86,SWC-128-DoS With Block Gas Limit
+ERC20Facet.sol,L53 - L61,SWC-114-Transaction Order Dependence
+PieFactoryContract.sol,L73 - L77,SWC-128-DoS With Block Gas Limit
+RCMarket.sol,L685,SWC-123-Requirement Violation
+RCTreasury.sol,L85,SWC-101-Integer Overflow and Underflow
+RICEToken.sol,"L891-894, 912-914",SWC-108-State Variable Default Visibility
+RICEToken.sol,"L962, 969, 970, 975",SWC-123-Requirement Violation
+RICEToken.sol,"L963,971",SWC-125-Incorrect Inheritance Order
+RICEToken.sol,L975-985,SWC-132-Unexpected Ether balance
+RICEToken.sol,L975-985,SWC-128-DoS With Block Gas Limit
+RICEToken.sol,L1055,SWC-101-Integer Overflow and Underflow
+SpiritRouter.sol,L274,SWC-135-Code With No Effects
+LendingPair.sol,L429,SWC-104-Unchecked Call Return Value
+LendingPair.sol,L499,SWC-104-Unchecked Call Return Value
+LendingPair.sol,L522,SWC-104-Unchecked Call Return Value
+VIDBToken.sol,"L5,all contract",SWC-102-Outdated Compiler Version
+VIDBToken.sol,L722,SWC-116-Block values as a proxy for time
+Strategy.sol,L137,SWC-101-Integer Overflow and Underflow
+Strategy.sol,L157,SWC-101-Integer Overflow and Underflow
+Strategy.sol,L183,SWC-101-Integer Overflow and Underflow
+Strategy.sol,L210,SWC-101-Integer Overflow and Underflow
+Strategy.sol,218,SWC-101-Integer Overflow and Underflow
+Strategy.sol,293,SWC-101-Integer Overflow and Underflow
+Strategy.sol,L400,SWC-104-Unchecked Call Return Value
+Strategy.sol,L421 - L424,SWC-128-DoS With Block Gas Limit
+Strategy.sol,L422,SWC-104-Unchecked Call Return Value
+Strategy.sol,437,SWC-101-Integer Overflow and Underflow
+Strategy.sol,472,SWC-101-Integer Overflow and Underflow
+Strategy.sol,556,SWC-101-Integer Overflow and Underflow
+GenericLenderBase.sol,L56,SWC-104-Unchecked Call Return Value
+IGeneric.sol,L24,SWC-135-Code With No Effects
+Strategy.sol,L857,SWC-135-Code With No Effects
+Strategy.sol,L253,SWC-135-Code With No Effects
+Strategy.sol,L262,SWC-135-Code With No Effects
+StrategyDAI.sol,L69,SWC-104-Unchecked Call Return Value
+StrategyDAI.sol,L100,SWC-131-Presence of unused variables
+StrategyUSDC.sol,L69,SWC-104-Unchecked Call Return Value
+StrategyUSDC.sol,L100,SWC-131-Presence of unused variables
+StrategyUSDT.sol,L69,SWC-104-Unchecked Call Return Value
+StrategyUSDT.sol,L100,SWC-131-Presence of unused variables
+BaseStrategy.sol,L164,SWC-104-Unchecked Call Return Value
+BaseStrategy.sol,L332,SWC-101-Integer Overflow and Underflow
+yinsure.sol,L561 - L595,SWC-135-Code With No Effects
+yinsure.sol,L610 - L627,SWC-135-Code With No Effects
+yinsure.sol,L788,SWC-101-Integer Overflow and Underflow
+yinsure.sol,L913,SWC-101-Integer Overflow and Underflow
+yinsure.sol,L914,SWC-101-Integer Overflow and Underflow
+yWETH.sol,L90 - L104,SWC-107-Reentrancy
+yWETH.sol,L144 - L162,SWC-107-Reentrancy
+Strategy.sol,L22,SWC-135-Code With No Effects
+Strategy.sol,L26,SWC-131-Presence of unused variables
+Strategy.sol,L134,SWC-135-Code With No Effects
+Strategy.sol,L426,SWC-135-Code With No Effects
+BaseWrapper.sol,L138,SWC-104-Unchecked Call Return Value
+BaseWrapper.sol,L152 - L192,SWC-128-DoS With Block Gas Limit
+BaseWrapper.sol,L174,SWC-104-Unchecked Call Return Value
+yToken.sol,L108 - L110,SWC-128-DoS With Block Gas Limit
+yToken.sol,L156 - L159,SWC-128-DoS With Block Gas Limit
+yToken.sol,L187,SWC-107-Reentrancy
+Keep3rV1Oracle.sol,L102,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L110,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L119,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L158,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L161,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L383,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L394,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L404,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L584 - L588,SWC-128-DoS With Block Gas Limit
+Keep3rV1Oracle.sol,L604 - L609,SWC-128-DoS With Block Gas Limit
+Keep3rV1Oracle.sol,L630,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L651,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L669,SWC-124-Write to Arbitrary Storage Location
+Keep3rV1Oracle.sol,L674 - L683,SWC-128-DoS With Block Gas Limit
+Keep3rV1Oracle.sol,L675,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L679,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L685 - L694,SWC-128-DoS With Block Gas Limit
+Keep3rV1Oracle.sol,L685,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L689,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L714 - L724,SWC-128-DoS With Block Gas Limit
+Keep3rV1Oracle.sol,L718,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,"L720, L721",SWC-124-Write to Arbitrary Storage Location
+Keep3rV1Oracle.sol,L724,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L728 - 739,SWC-128-DoS With Block Gas Limit
+Keep3rV1Oracle.sol,L731,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,"L734, L735",SWC-124-Write to Arbitrary Storage Location
+Keep3rV1Oracle.sol,L737,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L780 - L786,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L796 - L809,SWC-101-Integer Overflow and Underflow
+Keep3rV1Oracle.sol,L849,SWC-104-Unchecked Call Return Value
+Keep3rV1Volatility.sol,L33,SWC-101-Integer Overflow and Underflow
+Keep3rV1Volatility.sol,L41,SWC-101-Integer Overflow and Underflow
+Keep3rV1Volatility.sol,L56,SWC-101-Integer Overflow and Underflow
+Keep3rV1Volatility.sol,L58,SWC-101-Integer Overflow and Underflow
+Keep3rV1Volatility.sol,L65,SWC-101-Integer Overflow and Underflow
+Keep3rV1Volatility.sol,L68,SWC-101-Integer Overflow and Underflow
+Keep3rV1Volatility.sol,L70,SWC-101-Integer Overflow and Underflow
+Keep3rV1Volatility.sol,L75,SWC-101-Integer Overflow and Underflow
+Keep3rV1Volatility.sol,L96 - L150,SWC-101-Integer Overflow and Underflow
+UniswapV2Swapper.sol,L53,SWC-135-Code With No Effects
+BancorSwapper.sol,L53-L62,SWC-135-Code With No Effects
+TradeFactoryExecutor.sol,L82,SWC-135-Code With No Effects
+ZortCoin.sol,L5,SWC-102-Outdated Compiler Version
+ZortCoin.sol,L7,SWC-102-Outdated Compiler Version
+ZortCoin.sol,L130,SWC-123-Requirement Violation
+ZortCoin.sol,L169,SWC-123-Requirement Violation
+YVaultAssetProxy.sol,L49 - L80,SWC-107-Reentrancy
+ConvergentCurvePool.sol,L53,SWC-135-Code With No Effects
+InterestTokenFactory.sol,L4,SWC-135-Code With No Effects
+ERC20Permit.sol,L211,SWC-117-Signature Malleability
+ConvergentCurvePool.sol,L607 - L612,SWC-101-Integer Overflow and Underflow
+CoreVoting.sol,L238 - L277,SWC-107-Reentrancy
+Treasury.sol,L73,SWC-104-Unchecked Call Return Value
+History.sol,L225,SWC-101-Integer Overflow and Underflow
+History.sol,L279 - L301,SWC-128-DoS With Block Gas Limit
+GnosisSafe.sol,L70 - L105,SWC-107-Reentrancy
+GnosisSafe.sol,L94,SWC-101-Integer Overflow and Underflow
+GnosisSafe.sol,L142,SWC-101-Integer Overflow and Underflow
+OwnerManager.sol,L53 - L68,SWC-114-Transaction Order Dependence
+OwnerManager.sol,L64,SWC-101-Integer Overflow and Underflow
+OwnerManager.sol,L82,SWC-101-Integer Overflow and Underflow
+OwnerManager.sol,L89,SWC-101-Integer Overflow and Underflow
+BatchDeposits.sol,L19,SWC-102-Outdated Compiler Version
+BatchDeposits.sol,L86 - L122,SWC-114-Transaction Order Dependence
+StakefishERC721Wrapper.sol,L53-L71,SWC-107-Reentrancy
+StakefishServicesContract.sol,L33,SWC-131-Presence of unused variables
+StakefishServicesContract.sol,L171-L189,SWC-113-DoS with Failed Call
+StakefishServicesContract.sol,L226-L247,SWC-114-Transaction Order Dependence
+Solos.sol,L89,SWC-101-Integer Overflow and Underflow
+Solos.sol,L116,SWC-101-Integer Overflow and Underflow
+PoolCommitter.sol,L139-L181,SWC-114-Transaction Order Dependence
+PoolCommitter.sol,L187-L201,SWC-114-Transaction Order Dependence
+PoolCommitter.sol,L305-L315,SWC-128-DoS With Block Gas Limit
+PoolCommitter.sol,L386,SWC-135-Code With No Effects
+SMAOracle.sol,L22,SWC-131-Presence of unused variables
+SMAOracle.sol,L134-L136,SWC-135-Code With No Effects
+Vesting.sol,L160,SWC-114-Transaction Order Dependence
+ActionPools.sol,L72 - L74,SWC-135-Code With No Effects
+ActionPools.sol,L372,SWC-104-Unchecked Call Return Value
+StrategyMDex.sol,L241,SWC-114-Transaction Order Dependence
+StrategyUtils.sol,L345,SWC-114-Transaction Order Dependence
+StrategyUtils.sol,L395,SWC-114-Transaction Order Dependence
+BuybackBooToken.sol,L66,SWC-114-Transaction Order Dependence
+CFVault.sol,L121 - L153,SWC-107-Reentrancy
+DODODrops.sol,L156,SWC-120-Weak Sources of Randomness from Chain Attributes
+BaseMine.sol,L260-L262,SWC-128-DoS With Block Gas Limit
+BaseFilterV1.sol,L175,SWC-120-Weak Sources of Randomness from Chain Attributes
+DistributorGovernance.sol,L143 - L146,SWC-113-DoS with Failed Call
+PRA.sol,L66 - L80,SWC-107-Reentrancy
+SmoothyMasterV1.sol,L182 - L184,SWC-113-DoS with Failed Call
+AlianaMinting.sol,L254,SWC-104-Unchecked Call Return Value
+WUSDMaster.sol,L717-L723,SWC-114-Transaction Order Dependence
+EtherFund.sol,L32 - L40,SWC-108-State Variable Default Visibility
+EtherFund.sol,L34,SWC-101-Integer Overflow and Underflow
+BoomstarterICO.sol,L13,SWC-125-Incorrect Inheritance Order
+BoomstarterICO.sol,L128,SWC-135-Code With No Effects
+Core.sol,L2,SWC-103-Floating Pragma
+MultiSigWallet.sol,L389,SWC-128-DoS With Block Gas Limit
+ERC677.sol,L2,SWC-102-Outdated Compiler Version
+BaseFeeManager.sol,L48-L50,SWC-110-Assert Violation
+HomeBridgeErcToErc.sol,L159-L161   ,SWC-135-Code With No Effects
+PumaPayPullPayment.sol,L7,SWC-135-Code With No Effects
+TwoKeyMaintainersRegistry.sol,L82 - L84,SWC-128-DoS With Block Gas Limit
+TwoKeyMaintainersRegistry.sol,L101 - L104,SWC-128-DoS With Block Gas Limit
+ElementBridge.sol,L463,SWC-104-Unchecked Call Return Value
+LidoBridge.sol,L115,SWC-104-Unchecked Call Return Value
+LidoBridge.sol,L119,SWC-104-Unchecked Call Return Value
+LidoBridge.sol,L124,SWC-104-Unchecked Call Return Value
+CultosCoin.sol,L2,SWC-103-Floating Pragma
+Dripper.sol,L92-L93,SWC-135-Code With No Effects
+Harvester.sol,L224-L233,SWC-128-DoS With Block Gas Limit
+Harvester.sol,L314,SWC-131-Presence of unused variables
+OKLGAtomicSwap.sol,L73 - L79,SWC-128-DoS With Block Gas Limit
+OKLGPasswordManager.sol,L47 - L51,SWC-128-DoS With Block Gas Limit
+OKLGRaffle.sol,L115 - L159,SWC-120-Weak Sources of Randomness from Chain Attributes
+OKLGTokenLocker.sol,L126,SWC-107-Reentrancy
+RevomonToken.sol,L939,SWC-135-Code With No Effects
+MixinMatchOrders.sol,L432 - L548,SWC-113-DoS with Failed Call
+MixinSignatureValidator.sol,L76 - L92,SWC-114-Transaction Order Dependence
+LibMath.sol,L57,SWC-101-Integer Overflow and Underflow
+MultiSigWallet.sol,L303,SWC-101-Integer Overflow and Underflow
+MultiSigWalletWithTimeLock.sol,L55 - L58,SWC-101-Integer Overflow and Underflow
+xMPH.sol,L178,SWC-104-Unchecked Call Return Value
+xMPH.sol,L196,SWC-104-Unchecked Call Return Value
+xMPH.sol,L212,SWC-104-Unchecked Call Return Value
+MarketOracle.sol,L34 - L60,SWC-107-Reentrancy
+MarketOracle.sol,L143,SWC-101-Integer Overflow and Underflow
+DapiServer.sol,L471-L487,SWC-105-Unprotected Ether Withdrawal
+RequesterAuthorizerWhitelisterWithToken.sol,L284-L292,SWC-114-Transaction Order Dependence
+StorageUtils.sol,L137-L147,SWC-133-Hash Collisions With Multiple Variable Length Arguments
+ZkAssetBase.sol,L108-L125,SWC-121-Missing Protection against Signature Replay Attacks
+MultiSigWalletWithTimeLock.sol,L54-L60,SWC-101-Integer Overflow and Underflow
+BMath.sol,L143,SWC-101-Integer Overflow and Underflow
+BPool.sol,L377,SWC-101-Integer Overflow and Underflow
+BPool.sol,L403,SWC-101-Integer Overflow and Underflow
+DerivativeSpecification.sol,L130,SWC-112-Delegatecall to Untrusted Callee
+Vault.sol,L175 - L189,SWC-114-Transaction Order Dependence
+VaultFactory.sol,L46 - L79,SWC-114-Transaction Order Dependence
+DharmaAccountRecoveryManager.sol,L2,SWC-102-Outdated Compiler Version
+DharmaSmartWalletFactoryV1.sol,L130 - L170,SWC-128-DoS With Block Gas Limit
+DharmaKeyRegistryV1.sol,L52 - L76,SWC-121-Missing Protection against Signature Replay Attacks
+CurveAMO.sol,L371,SWC-104-Unchecked Call Return Value
+CurveAMO_V2.sol,L242,SWC-101-Integer Overflow and Underflow
+Frax.sol,L252 - L257,SWC-128-DoS With Block Gas Limit
+FraxPool.sol,L204,SWC-104-Unchecked Call Return Value
+FraxPool.sol,L250,SWC-104-Unchecked Call Return Value
+FraxPool.sol,L366,SWC-104-Unchecked Call Return Value
+FraxPool.sol,L370,SWC-104-Unchecked Call Return Value
+FraxPool.sol,L401,SWC-104-Unchecked Call Return Value
+InvestorAMO_V2.sol,L263,SWC-104-Unchecked Call Return Value
+TWAMM.sol,L135-L136,SWC-104-Unchecked Call Return Value
+FraxUnifiedFarmTemplate.sol,L465-L491,SWC-135-Code With No Effects
+FujiVault.sol,L23 - L673,SWC-106-Unprotected SELFDESTRUCT Instruction
+FujiVault.sol,L177 - L178,SWC-112-Delegatecall to Untrusted Callee
+FujiVault.sol,L227,SWC-112-Delegatecall to Untrusted Callee
+FujiVault.sol,L291,SWC-112-Delegatecall to Untrusted Callee
+FujiVault.sol,L340,SWC-112-Delegatecall to Untrusted Callee
+VaultBaseUpgradeable.sol,L101,SWC-112-Delegatecall to Untrusted Callee
+Faucet.sol,L2,SWC-102-Outdated Compiler Version
+GNTDeposit.sol,L2,SWC-102-Outdated Compiler Version
+GNTPaymentChannels.sol,L2,SWC-102-Outdated Compiler Version
+GolemNetworkToken.sol,L2,SWC-102-Outdated Compiler Version
+GolemNetworkTokenBatching.sol,L5,SWC-102-Outdated Compiler Version
+ReceivingContract.sol,L2,SWC-102-Outdated Compiler Version
+TokenProxy.sol,L5,SWC-102-Outdated Compiler Version
+ERC20.sol,L14,SWC-114-Transaction Order Dependence
+HermezAuctionProtocol.sol,L123 - L156,SWC-114-Transaction Order Dependence
+HermezAuctionProtocol.sol,L273,SWC-101-Integer Overflow and Underflow
+HermezAuctionProtocol.sol,L761 - L790,SWC-101-Integer Overflow and Underflow
+HermezAuctionProtocol.sol,L802,SWC-101-Integer Overflow and Underflow
+Hermez.sol,L170 - L214,SWC-114-Transaction Order Dependence
+Hermez.sol,L642 - L664,SWC-107-Reentrancy
+WithdrawalDelayer.sol,L68 - L82,SWC-114-Transaction Order Dependence
+BorrowerOperations.sol,L351,SWC-107-Reentrancy
+LUSDToken.sol,L212-L224,SWC-113-DoS with Failed Call
+TroveManager.sol,L920,SWC-104-Unchecked Call Return Value
+TroveManager.sol,L1276-L1284,SWC-135-Code With No Effects
+TroveManager.sol,L1286-L1291,SWC-135-Code With No Effects
+StabilityPool.sol,L504,SWC-101-Integer Overflow and Underflow
+BondingManager.sol,L21 - L955,SWC-120-Weak Sources of Randomness from Chain Attributes
+Liquidator.sol,L41-L51,SWC-107-Reentrancy
+CrabStrategy.sol,L257-L264,SWC-114-Transaction Order Dependence
+MarginCalculator.sol,L78 - L85,SWC-131-Presence of unused variables
+MarginCalculator.sol,L107,SWC-101-Integer Overflow and Underflow
+MarginCalculator.sol,L895 - L909,SWC-101-Integer Overflow and Underflow
+TradeCallee.sol,L65,SWC-115-Authorization through tx.origin
+FixedPointInt256.sol,L72 - L95,SWC-101-Integer Overflow and Underflow
+Marketplace.sol,L322-L333,SWC-114-Transaction Order Dependence
+Governor.sol,L158 - L172,SWC-104-Unchecked Call Return Value
+Governor.sol,L175 - L192,SWC-104-Unchecked Call Return Value
+Governor.sol,L217 - L232,SWC-104-Unchecked Call Return Value
+Governor.sol,L235 - L250,SWC-104-Unchecked Call Return Value
+InitializableGovernable.sol,L14 - L18,SWC-135-Code With No Effects
+MixOracle.sol,L63 - L65,SWC-101-Integer Overflow and Underflow
+AaveStrategy.sol,L46 - L66,SWC-105-Unprotected Ether Withdrawal
+AaveStrategy.sol,L120 - L125,SWC-113-DoS with Failed Call
+CompoundStrategy.sol,L79,SWC-104-Unchecked Call Return Value
+OUSD.sol,L31,SWC-119-Shadowing State Variables
+OUSD.sol,L40,SWC-119-Shadowing State Variables
+OUSD.sol,L156 - L172,SWC-105-Unprotected Ether Withdrawal
+OUSD.sol,L192,SWC-101-Integer Overflow and Underflow
+InitializableAbstractStrategy.sol,L191 - L196,SWC-104-Unchecked Call Return Value
+VaultAdmin.sol,L148 - L150,SWC-101-Integer Overflow and Underflow
+VaultAdmin.sol,L237 - L243,SWC-104-Unchecked Call Return Value
+VaultAdmin.sol,L240,SWC-104-Unchecked Call Return Value
+VaultAdmin.sol,L266 - L298,SWC-104-Unchecked Call Return Value
+VaultCore.sol,L88 - L128,SWC-107-Reentrancy
+VaultCore.sol,L142 - L184,SWC-104-Unchecked Call Return Value
+VaultCore.sol,L210 - L293,SWC-104-Unchecked Call Return Value
+VaultCore.sol,L308 - L319,SWC-104-Unchecked Call Return Value
+BandPriceFeed.sol,L77 - L82,SWC-101-Integer Overflow and Underflow
+ChainlinkPriceFeed.sol,L48 - L50,SWC-104-Unchecked Call Return Value
+ChainlinkPriceFeed.sol,L96 -L100,SWC-104-Unchecked Call Return Value
+PrimitiveEngine.sol,L223 - L233,SWC-112-Delegatecall to Untrusted Callee
+PrimitiveEngine.sol,L238 - L270,SWC-114-Transaction Order Dependence
+PrimitiveEngine.sol,L304 - L403,SWC-114-Transaction Order Dependence
+Transfers.sol,L13 - L22,SWC-104-Unchecked Call Return Value
+Units.sol,L41,SWC-101-Integer Overflow and Underflow
+Units.sol,L59,SWC-101-Integer Overflow and Underflow
+RocketStorage.sol,L45,SWC-115-Authorization through tx.origin
+RocketStorage.sol,L206 - L210,SWC-124-Write to Arbitrary Storage Location
+RocketStorage.sol,L231 - L235,SWC-124-Write to Arbitrary Storage Location
+RocketMinipool.sol,L103 - L109,SWC-112-Delegatecall to Untrusted Callee
+RocketMinipoolManager.sol,L217,SWC-135-Code With No Effects
+Consideration.sol,L387 - L399,SWC-101-Integer Overflow and Underflow
+ConsiderationPure.sol,L1255 - L1266,SWC-128-DoS With Block Gas Limit
+ExchangeExecution.sol,L76,SWC-101-Integer Overflow and Underflow
+ExchangeExecution.sol,L76,SWC-114-Transaction Order Dependence
+AddressArrayUtils.sol,L303 - L315,SWC-101-Integer Overflow and Underflow
+licence.sol,L1 - L248,SWC-135-Code With No Effects
+wallet.sol,L1 - L792,SWC-135-Code With No Effects
+wallet.sol,L562,SWC-101-Integer Overflow and Underflow
+wallet.sol,L707,SWC-101-Integer Overflow and Underflow
+UniswapV3Pool.sol,L195 - L213,SWC-114-Transaction Order Dependence
+UniswapV3Pool.sol,L503 - L672,SWC-105-Unprotected Ether Withdrawal
+UniswapV3Pool.sol,L546 - L621,SWC-128-DoS With Block Gas Limit
+TransferHelper.sol,L21,SWC-104-Unchecked Call Return Value
+Controller.sol,L294 - L320,SWC-105-Unprotected Ether Withdrawal
+ERC20Permit.sol,L48 - L77,SWC-114-Transaction Order Dependence
+Pool.sol,L87 - L99,SWC-114-Transaction Order Dependence
+Ladle.sol,L145 - L151,SWC-112-Delegatecall to Untrusted Callee
+Ladle.sol,L187 - L198,SWC-112-Delegatecall to Untrusted Callee

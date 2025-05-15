@@ -1,0 +1,75 @@
+
+pragma solidity ^0.4.18;
+
+
+import './SafeMath.sol';
+import './Owned.sol';
+import './Validating.sol';
+import './StandardToken.sol';
+
+
+
+
+
+
+
+contract Fee is Owned, Validating, StandardToken {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
